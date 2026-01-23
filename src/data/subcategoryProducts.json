@@ -1,0 +1,367 @@
+{
+  "tech": {
+    "gaming-laptops": {
+      "high-end": [
+        {
+          "id": "gaming-laptop-1",
+          "title": "MSI Titan 18 HX AI, Intel Series 2 Core Ultra 9 285HX, 46CM UHD+ MiniLED 120Hz Gaming Laptop (96GB/6TB NVMe SSD/Windows 11 Home/GeForce RTX 5090, GDDR7 24GB/Core Black/3.6Kg)",
+          "description": "Top-tier performance with flagship CPU/GPU, large screen — excellent for AAA gaming, streaming, and content creation.",
+          "link": "https://amzn.to/3NhWXon",
+          "image": "https://m.media-amazon.com/images/I/61UQ4m-H+yL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/61UQ4m-H+yL._SL1500_.jpg",
+          "category": "High-End Powerhouses"
+        },
+        {
+          "id": "gaming-laptop-2",
+          "title": "ASUS ROG Strix G16, Intel Core Ultra 9 275HX, Gaming Laptop (RTX 5060-8GB/115W TGP/16GB/1TB/2.5K QHD+/16\"/240Hz/90WHrs/Windows 11/M365 Basic (1Year)*/Office Home 2024/Eclipse Gray/)",
+          "description": "Premium ROG series with high refresh rate display and strong GPU — ideal for high-FPS gaming at high settings",
+          "link": "https://amzn.to/3Nz38nT",
+          "image": "https://m.media-amazon.com/images/I/71VG3azYMjL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71VG3azYMjL._SL1500_.jpg",
+          "category": "High-End Powerhouses"
+        }
+      ],
+      "mid-range": [
+        {
+          "id": "gaming-laptop-3",
+          "title": "ASUS TUF Gaming F16, Smartchoice, Intel Core 5 Processor 210H, 14th Gen Gaming Laptop (RTX 4050-6GB/140WTGP/16GB/512GB/FHD+/16\"/144Hz/Win 11/M365 Basic(1Year)*/Office-24/Mecha Gray/2.20 Kg)",
+          "description": "Great balance of performance and price with RTX-class graphics and solid thermals.",
+          "link": "https://amzn.to/4r2i2Sk",
+          "image": "https://m.media-amazon.com/images/I/71CuiGSpwnL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71CuiGSpwnL._SL1500_.jpg",
+          "category": "Mid-Range Gaming Workhorses"
+        },
+        {
+          "id": "gaming-laptop-4",
+          "title": "ASUS TUF A15 (2025) AMD Ryzen 7 7445HS, Gaming Laptop, RTX 3050-4GB, 75W TGP, 16GB RAM (Upgradeable Upto 64GB) 1TB SSD, FHD, 15.6\", 144Hz, 48Whrs, M365 Basic (1Year)*, Office 2024, Black, 2.3 Kg",
+          "description": "Slightly more budget-friendly TUF option that still handles modern titles smoothly.",
+          "link": "https://amzn.to/4jKB4da",
+          "image": "https://m.media-amazon.com/images/I/71SGw9JNMUL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71SGw9JNMUL._SL1500_.jpg",
+          "category": "Mid-Range Gaming Workhorses"
+        }
+      ],
+      "value-entry": [
+        {
+          "id": "gaming-laptop-5",
+          "title": "Lenovo LOQ 12th Gen Intel Core i5-12450HX 15.6\" (39.6cm) 144Hz 300Nits FHD Gaming Laptop (12GB/512GB SSD/Win 11/NVIDIA RTX 2050 4GB/100% sRGB/Office 21/3 Month Game Pass/Luna Grey/2.4Kg)",
+          "description": "Excellent value with dedicated GPU and good refresh-rate screen — great for 1080p gaming.",
+          "link": "https://amzn.to/4pNvc4D",
+          "image": "https://m.media-amazon.com/images/I/815+LXzloGL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/815+LXzloGL._SL1500_.jpg",
+          "category": "Value & Entry Gaming Picks"
+        },
+        {
+          "id": "gaming-laptop-6",
+          "title": "HP Victus, 13th Gen Intel Core i5-13420H, 6GB RTX 3050, 16GB DDR4(Upgradeable) 512GB SSD, FHD, 144Hz, 300 nits, IPS, 15.6\"/39.6cm, Win11, M365* Office24, Mica Silver, 2.3kg, fa2700TX, Gaming Laptop",
+          "description": "Affordable choice for casual to moderate gaming — good entry into dedicated gaming laptops.",
+          "link": "https://amzn.to/49Ijz8X",
+          "image": "https://m.media-amazon.com/images/I/71Mh-ltniDL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71Mh-ltniDL._SL1500_.jpg",
+          "category": "Value & Entry Gaming Picks"
+        }
+      ]
+    },
+    "budget-laptops": {
+      "top-picks": [
+        {
+          "id": "budget-laptop-1",
+          "title": "Acer SmartChoice Aspire 3 Laptop Intel Core Celeron N4500 Processor Laptop (8 GB LPDDR4X SDRAM/512 GB SSD/Win11 Home + Kaspersky Standard 1 Device 1 Year)",
+          "description": "⭐ 4.5/5 (1900+ reviews) — Great overall pick with 8 GB RAM + SSD, solid performance for office, streaming, and everyday tasks. Reliable and popular budget laptop.",
+          "link": "https://amzn.to/49CWTH1",
+          "image": "https://m.media-amazon.com/images/I/71IsnCeaKCL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71IsnCeaKCL._SL1500_.jpg",
+          "category": "Top Picks"
+        },
+        {
+          "id": "budget-laptop-2",
+          "title": "Lenovo V15 G4 AMD Athlon Silver 7120U Laptop 8GB LPDDR5 Ram, 512 GB SSD PCIe, Windows 11/MS Office, 15.6\" FHD Screen, AMD Radeon 610M, Silver, 1 Year Brand Warranty",
+          "description": "⭐ 4.4/5 (5000+ reviews) — Large 15.6″ FHD screen and Windows setup make it great for productivity. Worth watching for deals.",
+          "link": "https://amzn.to/3YKapns",
+          "image": "https://m.media-amazon.com/images/I/81PaO9Q1WFL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/81PaO9Q1WFL._SL1500_.jpg",
+          "category": "Top Picks"
+        }
+      ],
+      "value-picks": [
+        {
+          "id": "budget-laptop-3",
+          "title": "Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",
+          "description": "Value pick with Android-based OS, decent display, and lightweight design — good for basic tasks and video streaming.",
+          "link": "https://amzn.to/4bBnhDJ",
+          "image": "https://m.media-amazon.com/images/I/61TRKPzWmBL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/61TRKPzWmBL._SL1500_.jpg",
+          "category": "Value & Budget Picks"
+        },
+        {
+          "id": "budget-laptop-4",
+          "title": "Walker Best Student & Office Work Laptop | Thin & Light | 14.1\" 1920 * 1080 Resolution FHD IPS Display | 4GB RAM, 128GB SSD | Celeron Processor N4020 (Gemini Lake) | Windows 11 Home | Grey",
+          "description": "Budget-friendly everyday laptop with HD/FullHD display — good choice for students and office use.",
+          "link": "https://amzn.to/4qpfq0B",
+          "image": "https://m.media-amazon.com/images/I/61XOR7fpbVL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/61XOR7fpbVL._SL1500_.jpg",
+          "category": "Value & Budget Picks"
+        },
+        {
+          "id": "budget-laptop-5",
+          "title": "HP 14s Intel Celeron Dual Core N4500 Laptop (8GB/512GB SSD/Win 11) 14.0\" HD Display, MSO 24, Black, 1.46kg, DQ3149TU Thin and Light Business Laptop",
+          "description": "Strong brand reliability with a high rating (5⭐) — decent daily-use student machine.",
+          "link": "https://amzn.to/49pBiDg",
+          "image": "https://m.media-amazon.com/images/I/81leoJuYYaL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/81leoJuYYaL._SL1500_.jpg",
+          "category": "Value & Budget Picks"
+        },
+        {
+          "id": "budget-laptop-6",
+          "title": "Primebook 2 Pro 2025 (New Launch) | 8GB RAM, 128GB UFS Storage | 14.1-Inch FHD IPS Display | 14 Hours Battery | MediaTek Helio G99 | Android 15 (PrimeOS 3.0) | Backlit Keyboard | in-Built AI (Gray)",
+          "description": "Android-based laptop running MediaTek Helio chipset — a good student pick if you want long battery life and web-centric usage (Chrome, YouTube, Docs online).",
+          "link": "https://amzn.to/3Nqjyiz",
+          "image": "https://m.media-amazon.com/images/I/61TRKPzWmBL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/61TRKPzWmBL._SL1500_.jpg",
+          "category": "Value & Budget Picks"
+        }
+      ]
+    },
+    "audio-gadgets": {
+      "earbuds": [
+        {
+          "id": "audio-earbuds-1",
+          "title": "OnePlus Nord Buds 3 TWS Earbuds",
+          "description": "⭐ 4.5★ (2200+ reviews) — Best overall for everyday use. Active Noise Cancellation (ANC), crisp sound, long battery life & reliable voice calls. Great all-around pick for daily music, videos, and calls.",
+          "link": "https://amzn.to/4qCz75a",
+          "image": "https://m.media-amazon.com/images/I/81gNMbbeqvL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/81gNMbbeqvL._SL1500_.jpg",
+          "category": "Top Earbuds"
+        },
+        {
+          "id": "audio-earbuds-2",
+          "title": "realme Buds T200x",
+          "description": "⭐ 4.3★ (300+ reviews) — Excellent balance of sound quality and battery life at mid-range budget. Well-reviewed for daily use and comfortable fit.",
+          "link": "https://amzn.to/4quROrE",
+          "image": "https://m.media-amazon.com/images/I/71FOccCOQmL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71FOccCOQmL._SL1500_.jpg",
+          "category": "Top Earbuds"
+        },
+        {
+          "id": "audio-earbuds-3",
+          "title": "realme Buds T200 Lite",
+          "description": "⭐ 4.7★ (800+ reviews) — Superb value under ₹1,500. Strong driver performance, solid ANC-lite sound, and long playtime. One of the best budget earbuds available.",
+          "link": "https://amzn.to/45MlZSI",
+          "image": "https://m.media-amazon.com/images/I/81-TGXuOMAL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/81-TGXuOMAL._SL1500_.jpg",
+          "category": "Top Earbuds"
+        },
+        {
+          "id": "audio-earbuds-4",
+          "title": "EarSafe Lite Open Ear Air Conduction Headphones, Bluetooth V5.2, Dual Pairing, IPx5 Water-Resistant & sweatproof, 12h+ Battery Life for Workout, Sports, All Day Long Calls (2024 Model)",
+          "description": "Open-ear design — ideal for workouts & commuting (keeps you aware of surroundings). Good for non-isolating listening and safety during outdoor use.",
+          "link": "https://amzn.to/4jOnwxw",
+          "image": "https://m.media-amazon.com/images/I/71u+hQImx-L._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/71u+hQImx-L._SL1500_.jpg",
+          "category": "Specialty Earbuds"
+        },
+        {
+          "id": "audio-earbuds-5",
+          "title": "Goboult Z40 with Zen ENC Mic",
+          "description": "⭐ 4.3★ (840+ reviews) — Great basic true wireless earbuds with long battery life & clear call quality thanks to ENC mic. Excellent everyday pick under ₹1,000.",
+          "link": "https://amzn.to/4a00MqU",
+          "image": "https://m.media-amazon.com/images/I/61JU2HicMQL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/61JU2HicMQL._SL1500_.jpg",
+          "category": "Budget Earbuds"
+        },
+        {
+          "id": "audio-earbuds-6",
+          "title": "Compact Gaming Earbuds",
+          "description": "⭐ 4.5★ (13+ reviews) — Well-rated compact earbuds with low latency. Good choice if you want gaming + music combo at a low price.",
+          "link": "https://amzn.to/4jI8Csw",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Budget Earbuds"
+        },
+        {
+          "id": "audio-earbuds-7",
+          "title": "Boat 2025 Launch Airdopes Plus 311, Glass Design, ENx Tech, 50 H Battery, Fast Charge, Stream Ad Free Music via App Support, Bluetooth Earbuds, TWS Ear Buds Wireless Earphones with mic (Charcoal Black)",
+          "description": "⭐ 4.3★ (15+ reviews) — Solid daily use earbuds from a reliable brand. Comfy fit, good battery life, and dependable performance.",
+          "link": "https://amzn.to/3Nx3StK",
+          "image": "https://m.media-amazon.com/images/I/61c3+AAop3L._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/61c3+AAop3L._SL1500_.jpg",
+          "category": "Budget Earbuds"
+        },
+        {
+          "id": "audio-earbuds-8",
+          "title": "amazon basics True Wireless in-Ear Earbuds with Mic, Low-Latency Gaming Mode, Touch Control, IPX5 Water-Resistance, Bluetooth 5.3, Up to 60 Hours Play Time, Voice Assistance and Fast Charging (White)",
+          "description": "Budget TWS with long battery life, IPX5 water resistance & low latency. Simple, practical choice for everyday listening on a budget.",
+          "link": "https://amzn.to/4b4ZKeq",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Budget Earbuds"
+        }
+      ],
+      "speakers": [
+        {
+          "id": "audio-speaker-1",
+          "title": "JBL Flip 6 Wireless Portable Bluetooth Speaker Pro Sound",
+          "description": "⭐ 4.7/5 (15,000+ reviews) — Excellent powerful sound with deep bass, waterproof IP67, long battery life (~12 hrs). Great for home/outdoor parties.",
+          "link": "https://amzn.to/3LvoZfv",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Premium Speakers"
+        },
+        {
+          "id": "audio-speaker-2",
+          "title": "JBL Flip 6 Portable Bluetooth Speaker",
+          "description": "⭐ 4.7/5 (popular price tier) — Compact but rich, punchy audio and rugged waterproof design. Great everyday speaker with premium quality.",
+          "link": "https://amzn.to/4bD3cwU",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Premium Speakers"
+        },
+        {
+          "id": "audio-speaker-3",
+          "title": "boAt Signature Sound Speaker",
+          "description": "⭐ 4.7/5 (100+ reviews) — 160 W boAt Signature Sound, EQ modes, RGB LEDs, mic & guitar input, long playtime. Excellent for big gatherings/parties.",
+          "link": "https://amzn.to/49tbHcF",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Premium Speakers"
+        },
+        {
+          "id": "audio-speaker-4",
+          "title": "JBL Go 3, Wireless Ultra Portable Bluetooth Speaker, Pro Sound, Vibrant Colors with Rugged Fabric Design",
+          "description": "⭐ 4.8/5 (~27,000+ reviews) — Compact, vibrant sound, excellent clarity, waterproof design. One of the most popular portable speakers in India.",
+          "link": "https://amzn.to/3NPJwfl",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Portable Speakers"
+        },
+        {
+          "id": "audio-speaker-5",
+          "title": "Compact Bluetooth Speaker",
+          "description": "Compact & portable, modern Bluetooth v5.0, good daily performance — great budget speaker.",
+          "link": "https://amzn.to/4pFLvAd",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Portable Speakers"
+        },
+        {
+          "id": "audio-speaker-6",
+          "title": "Portronics SoundDrum 1 TWS Portable Bluetooth Speaker",
+          "description": "⭐ 4.3/5 (entered reviews) — Great little speaker for music outdoors, travel, or desk use. Highly rated for the price.",
+          "link": "https://amzn.to/3NnNMmh",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Budget Speakers"
+        },
+        {
+          "id": "audio-speaker-7",
+          "title": "boAt Stone 190 Pro 5W Bluetooth Speaker",
+          "description": "⭐ 4.8/5 (128+ reviews) — Super-portable pocket-friendly speaker with clear sound and respectable volume. Perfect for travel, bike rides, desk, or gifting.",
+          "link": "https://amzn.to/4b0lwzV",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Budget Speakers"
+        }
+      ]
+    },
+    "smart-gadgets": {
+      "smart-speakers": [
+        {
+          "id": "smart-gadget-1",
+          "title": "Echo Show 5 Smart Speaker",
+          "description": "A powerful smart display with Alexa for video calls, recipes, routines, and smart home control.",
+          "link": "https://amzn.to/3YKC2ww",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Speakers & Displays"
+        },
+        {
+          "id": "smart-gadget-2",
+          "title": "Amazon Echo Dot Alexa Smart Speaker",
+          "description": "Compact voice-controlled speaker for music, reminders, and controlling smart devices hands-free.",
+          "link": "https://amzn.to/4pIE2jM",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Speakers & Displays"
+        }
+      ],
+      "entertainment": [
+        {
+          "id": "smart-gadget-3",
+          "title": "Amazon Fire TV Stick with Alexa",
+          "description": "Turn any TV into a smart entertainment hub with Alexa voice search and streaming apps.",
+          "link": "https://amzn.to/3LzDJtO",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Entertainment & Streaming"
+        }
+      ],
+      "smart-home": [
+        {
+          "id": "smart-gadget-4",
+          "title": "Zebronics Smart Wi-Fi Plug",
+          "description": "Make regular appliances smart — schedule them, control remotely, and save energy.",
+          "link": "https://amzn.to/45djfOe",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Home Control"
+        },
+        {
+          "id": "smart-gadget-5",
+          "title": "Amazon Basics Smart LED Bulb",
+          "description": "Energy-efficient, Wi-Fi enabled smart bulb with voice and app control.",
+          "link": "https://amzn.to/3ZnQtGZ",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Home Control"
+        },
+        {
+          "id": "smart-gadget-6",
+          "title": "Acer PowerHub Smart Power Strip",
+          "description": "Organize and control multiple devices from a single smart strip.",
+          "link": "https://amzn.to/3LELPkI",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Home Control"
+        },
+        {
+          "id": "smart-gadget-7",
+          "title": "HomeMate WiFi 4 Node Smart Switch",
+          "description": "Affordable smart switch to remotely control several devices.",
+          "link": "https://amzn.to/4qKdfFr",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Home Control"
+        },
+        {
+          "id": "smart-gadget-8",
+          "title": "Lifelong Smart Power Plug",
+          "description": "Budget-friendly plug to automate lights and gadgets with voice or app.",
+          "link": "https://amzn.to/3YGwfrV",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Smart Home Control"
+        }
+      ],
+      "monitoring-health": [
+        {
+          "id": "smart-gadget-9",
+          "title": "Pebble Fitness Band",
+          "description": "Practical health tracker for steps, heart rate, sleep, and activity data.",
+          "link": "https://amzn.to/4pK7u9m",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Health & Monitoring"
+        },
+        {
+          "id": "smart-gadget-10",
+          "title": "Qubo Smart Cam 360",
+          "description": "Smart monitoring camera with wide coverage and mobile alerts.",
+          "link": "https://amzn.to/4qYVFgv",
+          "image": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "amazonImageUrl": "https://m.media-amazon.com/images/I/51nBTTG3hNL._SL1500_.jpg",
+          "category": "Health & Monitoring"
+        }
+      ]
+    }
+  }
+}

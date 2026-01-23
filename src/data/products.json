@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "trending-1",
+    "title": "Mirada Celestra Vinyl Face Doll Toy",
+    "product_link": "https://amzn.to/3NllR6x",
+    "image_url": "https://m.media-amazon.com/images/I/71mX3BBC3YL._SL1500_.jpg",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "description": "Cute & Stylish Soft Doll for Kids & Girls | Adorable Collectible Gift for Playtime & Room Décor | 15cm",
+    "isTrending": true
+  },
+  {
+    "id": "trending-2",
+    "title": "Nike Men Court Vision LO NN White/Black-White Basketball Shoes",
+    "product_link": "https://amzn.to/3NhA0ld",
+    "image_url": "https://m.media-amazon.com/images/I/613l8ZN8TfL._SL1500_.jpg",
+    "category": "life-stages",
+    "subcategory": "college-starter",
+    "description": "Classic Basketball-Inspired Sneakers | Comfortable Design | Amazon Bestseller",
+    "isTrending": true
+  },
+  {
+    "id": "gaming-laptop-1",
+    "title": "MSI Titan 18 HX AI Gaming Laptop",
+    "product_link": "https://amzn.to/3NhWXon",
+    "image_url": "https://m.media-amazon.com/images/I/71d1kjcqTGL._SL1500_.jpg",
+    "description": "Top-tier performance with flagship CPU/GPU, large screen — excellent for AAA gaming, streaming, and content creation.",
+    "category": "tech",
+    "subcategory": "gaming-laptops",
+    "price_range": "high-end"
+  },
+  {
+    "id": "gaming-laptop-2",
+    "title": "ASUS ROG Strix G16 Gaming Laptop",
+    "product_link": "https://amzn.to/3Nz38nT",
+    "image_url": "https://m.media-amazon.com/images/I/71PYcEAwWgL._SL1500_.jpg",
+    "description": "Premium ROG series with high refresh rate display and strong GPU — ideal for high-FPS gaming at high settings",
+    "category": "tech",
+    "subcategory": "gaming-laptops",
+    "price_range": "high-end"
+  },
+  {
+    "id": "gaming-laptop-3",
+    "title": "ASUS TUF Gaming F16 Gaming Laptop",
+    "product_link": "https://amzn.to/4r2i2Sk",
+    "image_url": "https://m.media-amazon.com/images/I/71SGw9JNMUL._SL1500_.jpg",
+    "description": "Great balance of performance and price with RTX-class graphics and solid thermals.",
+    "category": "tech",
+    "subcategory": "gaming-laptops",
+    "price_range": "mid-range"
+  },
+  {
+    "id": "gaming-laptop-4",
+    "title": "ASUS TUF Gaming A15 Gaming Laptop",
+    "product_link": "https://amzn.to/4jKB4da",
+    "image_url": "https://m.media-amazon.com/images/I/815OXLbHBjL._SL1500_.jpg",
+    "description": "Slightly more budget-friendly TUF option that still handles modern titles smoothly.",
+    "category": "tech",
+    "subcategory": "gaming-laptops",
+    "price_range": "mid-range"
+  },
+  {
+    "id": "gaming-laptop-5",
+    "title": "Lenovo LOQ 15IAX9 Gaming Laptop",
+    "product_link": "https://amzn.to/4pNvc4D",
+    "image_url": "https://m.media-amazon.com/images/I/81zdgqyLRWL._SL1500_.jpg",
+    "description": "Excellent value with dedicated GPU and good refresh-rate screen — great for 1080p gaming.",
+    "category": "tech",
+    "subcategory": "gaming-laptops",
+    "price_range": "value-entry"
+  },
+  {
+    "id": "gaming-laptop-6",
+    "title": "HP Victus Gaming Laptop",
+    "product_link": "https://amzn.to/49Ijz8X",
+    "image_url": "https://m.media-amazon.com/images/I/71ctZKjC-hL._SL1500_.jpg",
+    "description": "Affordable choice for casual to moderate gaming — good entry into dedicated gaming laptops.",
+    "category": "tech",
+    "subcategory": "gaming-laptops",
+    "price_range": "value-entry"
+  },
+  {
+    "id": "budget-laptop-1",
+    "title": "Acer Aspire 3 A325‑45 Laptop",
+    "product_link": "https://amzn.to/49CWTH1",
+    "image_url": "https://m.media-amazon.com/images/I/61QBOVclb4L._AC_SS115_.jpg",
+    "description": "Great overall pick with 8 GB RAM + SSD, solid performance for office, streaming, and everyday tasks. Reliable and popular budget laptop.",
+    "category": "tech",
+    "subcategory": "budget-laptops",
+    "price_range": "top-picks"
+  },
+  {
+    "id": "budget-laptop-2",
+    "title": "Lenovo V15 G4 FHD Laptop",
+    "product_link": "https://amzn.to/3YKapns",
+    "image_url": "https://m.media-amazon.com/images/I/51EuJs4AGpL._SL1500_.jpg",
+    "description": "Slightly above ₹30k sometimes, but worth watching for deals — large 15.6″ FHD screen and Windows setup make it great for productivity.",
+    "category": "tech",
+    "subcategory": "budget-laptops",
+    "price_range": "top-picks"
+  },
+  {
+    "id": "budget-laptop-3",
+    "title": "Primebook 2 Pro 2025 (Android)",
+    "product_link": "https://amzn.to/4bBnhDJ",
+    "image_url": "https://m.media-amazon.com/images/I/51CIIx6l+VL._SL1500_.jpg",
+    "description": "Value pick under ₹20k with Android-based OS, decent display, and lightweight design — good for basic tasks/video streaming",
+    "category": "tech",
+    "subcategory": "budget-laptops",
+    "price_range": "value-picks"
+  },
+  {
+    "id": "budget-laptop-4",
+    "title": "Walker Best Student & Office Work Laptop",
+    "product_link": "https://amzn.to/4qpfq0B",
+    "image_url": "https://m.media-amazon.com/images/I/617Wk7g3R7L._SL1500_.jpg",
+    "description": "Budget-friendly everyday laptop with HD/FullHD display — good choice for students and office use.",
+    "category": "tech",
+    "subcategory": "budget-laptops",
+    "price_range": "value-picks"
+  },
+  {
+    "id": "budget-laptop-5",
+    "title": "HP 14\" Intel Celeron Laptop",
+    "product_link": "https://amzn.to/49pBiDg",
+    "image_url": "https://m.media-amazon.com/images/I/61bRpOLNVKL._SL1500_.jpg",
+    "description": "Strong brand reliability with a high rating (5) — decent daily-use student machine.",
+    "category": "tech",
+    "subcategory": "budget-laptops",
+    "price_range": "value-picks"
+  },
+  {
+    "id": "budget-laptop-6",
+    "title": "Primebook 2 Pro 2025 (Android)",
+    "product_link": "https://amzn.to/3Nqjyiz",
+    "image_url": "https://m.media-amazon.com/images/I/51CIIx6l+VL._SL1500_.jpg",
+    "description": "Android-based laptop running MediaTek Helio chipset — a good student pick if you want long battery life and web-centric usage (Chrome, YouTube, Docs online).",
+    "category": "tech",
+    "subcategory": "budget-laptops",
+    "price_range": "value-picks"
+  },
+  {
+    "id": "audio-earbuds-1",
+    "title": "OnePlus Nord Buds 3 TWS Earbuds",
+    "product_link": "https://amzn.to/4qCz75a",
+    "image_url": "https://m.media-amazon.com/images/I/51CfKYzmFsL._SL1500_.jpg",
+    "description": "Best overall for everyday use. Active Noise Cancellation (ANC), crisp sound, long battery life & reliable voice calls. Great all-around pick for daily music, videos, and calls.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-2",
+    "title": "realme Buds T200x",
+    "product_link": "https://amzn.to/4quROrE",
+    "image_url": "https://m.media-amazon.com/images/I/61Ow0V-mzkL._SL1500_.jpg",
+    "description": "Excellent balance of sound quality and battery life at mid-range budget. Well-reviewed for daily use and comfortable fit.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-3",
+    "title": "realme Buds T200 Lite",
+    "product_link": "https://amzn.to/45MlZSI",
+    "image_url": "https://m.media-amazon.com/images/I/61MOG3nzwQL._SL1500_.jpg",
+    "description": "Superb value under ₹1,500. Strong driver performance, solid ANC-lite sound, and long playtime. One of the best budget earbuds available.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-4",
+    "title": "EarSafe Lite Open Ear Air Conduction Headphones",
+    "product_link": "https://amzn.to/4jOnwxw",
+    "image_url": "https://m.media-amazon.com/images/I/41Pi0c3nvRL._SL1500_.jpg",
+    "description": "Open-ear design — ideal for workouts & commuting (keeps you aware of surroundings). Good for non-isolating listening and safety during outdoor use.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-5",
+    "title": "Goboult Z40 with Zen ENC Mic",
+    "product_link": "https://amzn.to/4a00MqU",
+    "image_url": "https://m.media-amazon.com/images/I/71zv63FtPuL._SL1500_.jpg",
+    "description": "Great basic true wireless earbuds with long battery life & clear call quality thanks to ENC mic — excellent everyday pick under ₹1,000.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-6",
+    "title": "Compact Gaming Earbuds",
+    "product_link": "https://amzn.to/4jI8Csw",
+    "image_url": "https://m.media-amazon.com/images/I/61c3+AAop3L._SL1500_.jpg",
+    "description": "Well-rated compact earbuds with low latency — good choice if you want gaming + music combo at a low price.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-7",
+    "title": "boAt Airdopes Plus 311 Earbuds",
+    "product_link": "https://amzn.to/3Nx3StK",
+    "image_url": "https://m.media-amazon.com/images/I/61c3+AAop3L._SL1500_.jpg",
+    "description": "Solid daily use earbuds from a reliable brand — comfy fit, good battery life, and dependable performance.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-earbuds-8",
+    "title": "Amazon Basics True Wireless Earbuds",
+    "product_link": "https://amzn.to/4b4ZKeq",
+    "image_url": "https://m.media-amazon.com/images/I/51gIn8Qz-GL._SL1500_.jpg",
+    "description": "Budget TWS with long battery life, IPX5 water resistance & low latency. Simple, practical choice for everyday listening on a budget.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "earbuds"
+  },
+  {
+    "id": "audio-speaker-1",
+    "title": "JBL Flip 6 Wireless Portable Bluetooth Speaker",
+    "product_link": "https://amzn.to/3LvoZfv",
+    "image_url": "https://m.media-amazon.com/images/I/51UJB0fLAbL._SL1500_.jpg",
+    "description": "Excellent powerful sound with deep bass, waterproof IP67, long battery life (~12 hrs). Great for home/outdoor parties.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "audio-speaker-2",
+    "title": "JBL Flip 6 Portable Bluetooth Speaker",
+    "product_link": "https://amzn.to/4bD3cwU",
+    "image_url": "https://m.media-amazon.com/images/I/81MjIZM2H9L._SL1500_.jpg",
+    "description": "Compact but rich, punchy audio and rugged waterproof design — great everyday speaker with premium quality.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "audio-speaker-3",
+    "title": "boAt Signature Sound Speaker",
+    "product_link": "https://amzn.to/49tbHcF",
+    "image_url": "https://m.media-amazon.com/images/I/81xu-Ct8N4L._SL1500_.jpg",
+    "description": "160 W boAt Signature Sound, EQ modes, RGB LEDs, mic & guitar input, long playtime. Excellent for big gatherings/parties.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "audio-speaker-4",
+    "title": "JBL Go 3 Wireless Ultra Portable Bluetooth Speaker",
+    "product_link": "https://amzn.to/3NPJwfl",
+    "image_url": "https://m.media-amazon.com/images/I/51ReQ1OiESL._SL1500_.jpg",
+    "description": "Compact, vibrant sound, excellent clarity, waterproof design. One of the most popular portable speakers in India.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "audio-speaker-5",
+    "title": "Compact Bluetooth Speaker",
+    "product_link": "https://amzn.to/4pFLvAd",
+    "image_url": "https://m.media-amazon.com/images/I/71poiJ97u9L._SL1500_.jpg",
+    "description": "Compact & portable, modern Bluetooth v5.0, good daily performance — great budget speaker.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "audio-speaker-6",
+    "title": "Portronics SoundDrum 1 TWS Portable Bluetooth Speaker",
+    "product_link": "https://amzn.to/3NnNMmh",
+    "image_url": "https://m.media-amazon.com/images/I/61ygYGBZUBL._SL1500_.jpg",
+    "description": "Great little speaker for music outdoors, travel, or desk use. Highly rated for the price.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "audio-speaker-7",
+    "title": "boAt Stone 190 Pro 5W Bluetooth Speaker",
+    "product_link": "https://amzn.to/4b0lwzV",
+    "image_url": "https://m.media-amazon.com/images/I/81M4DVkAbPL._SL1500_.jpg",
+    "description": "Super-portable pocket-friendly speaker with clear sound and respectable volume. Perfect for travel, bike rides, desk, or gifting.",
+    "category": "tech",
+    "subcategory": "audio-gadgets",
+    "price_range": "speakers"
+  },
+  {
+    "id": "smart-gadget-1",
+    "title": "Echo Show 5 Smart Speaker",
+    "product_link": "https://amzn.to/3YKC2ww",
+    "image_url": "https://m.media-amazon.com/images/I/817BioVmteL._SL1500_.jpg",
+    "description": "A powerful smart display with Alexa for video calls, recipes, routines, and smart home control.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-speakers"
+  },
+  {
+    "id": "smart-gadget-2",
+    "title": "Amazon Echo Dot Alexa Smart Speaker",
+    "product_link": "https://amzn.to/4pIE2jM",
+    "image_url": "https://m.media-amazon.com/images/I/81hgjKwsdHL._SL1500_.jpg",
+    "description": "Compact voice-controlled speaker for music, reminders, and controlling smart devices hands-free.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-speakers"
+  },
+  {
+    "id": "smart-gadget-3",
+    "title": "Amazon Fire TV Stick with Alexa",
+    "product_link": "https://amzn.to/3LzDJtO",
+    "image_url": "https://m.media-amazon.com/images/I/71fsvm84bwL._SL1500_.jpg",
+    "description": "Turn any TV into a smart entertainment hub with Alexa voice search and streaming apps.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "entertainment"
+  },
+  {
+    "id": "smart-gadget-4",
+    "title": "Zebronics Smart Wi-Fi Plug",
+    "product_link": "https://amzn.to/45djfOe",
+    "image_url": "https://m.media-amazon.com/images/I/61dhsFpHHVL._SL1500_.jpg",
+    "description": "Make regular appliances smart — schedule them, control remotely, and save energy.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-home"
+  },
+  {
+    "id": "smart-gadget-5",
+    "title": "Amazon Basics Smart LED Bulb",
+    "product_link": "https://amzn.to/3ZnQtGZ",
+    "image_url": "https://m.media-amazon.com/images/I/61Ut1SZlcDL._SL1500_.jpg",
+    "description": "Energy-efficient, Wi-Fi enabled smart bulb with voice and app control.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-home"
+  },
+  {
+    "id": "smart-gadget-6",
+    "title": "Acer PowerHub Smart Power Strip",
+    "product_link": "https://amzn.to/3LELPkI",
+    "image_url": "https://m.media-amazon.com/images/I/61rMD55JqgL._SL1500_.jpg",
+    "description": "Organize and control multiple devices from a single smart strip.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-home"
+  },
+  {
+    "id": "smart-gadget-7",
+    "title": "HomeMate WiFi 4 Node Smart Switch",
+    "product_link": "https://amzn.to/4qKdfFr",
+    "image_url": "https://m.media-amazon.com/images/I/51lCcCnY6DL._SL1500_.jpg",
+    "description": "Affordable smart switch to remotely control several devices.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-home"
+  },
+  {
+    "id": "smart-gadget-8",
+    "title": "Lifelong Smart Power Plug",
+    "product_link": "https://amzn.to/3YGwfrV",
+    "image_url": "https://m.media-amazon.com/images/I/61Ky2dsPCLL._SL1500_.jpg",
+    "description": "Budget-friendly plug to automate lights and gadgets with voice or app.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "smart-home"
+  },
+  {
+    "id": "smart-gadget-9",
+    "title": "Pebble Fitness Band",
+    "product_link": "https://amzn.to/4pK7u9m",
+    "image_url": "https://m.media-amazon.com/images/I/81uZZEkembL._AC_SS115_.jpg",
+    "description": "Practical health tracker for steps, heart rate, sleep, and activity data.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "monitoring-health"
+  },
+  {
+    "id": "smart-gadget-10",
+    "title": "Qubo Smart Cam 360",
+    "product_link": "https://amzn.to/4qYVFgv",
+    "image_url": "https://m.media-amazon.com/images/I/51uHuTkte6L._SL1500_.jpg",
+    "description": "Smart monitoring camera with wide coverage and mobile alerts.",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "price_range": "monitoring-health"
+  },
+  {
+    "id": "secret-santa-1",
+    "title": "3D Crystal Moon Lamp – LED Night Light",
+    "product_link": "https://amzn.to/3Lku7Dd",
+    "image_url": "https://m.media-amazon.com/images/I/61GfiZngyIL._SL1500_.jpg",
+    "description": "Cute and decorative gift with LED night light feature.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "under-500"
+  },
+  {
+    "id": "secret-santa-2",
+    "title": "Crystal Galaxy Ball Night Light",
+    "product_link": "https://amzn.to/4qlrQqo",
+    "image_url": "https://m.media-amazon.com/images/I/6119ly3hOgL._SL1500_.jpg",
+    "description": "Small dimmable LED desk light, perfect for quirky gifting.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "under-500"
+  },
+  {
+    "id": "secret-santa-3",
+    "title": "Open Secret Premium Gift Hamper",
+    "product_link": "https://amzn.to/4bEmLF7",
+    "image_url": "https://m.media-amazon.com/images/I/613LyPWEaYL._SL1500_PIbundle-5,TopRight,0,0_AA466SH20_.jpg",
+    "description": "Combo box with snacks/chocolates — classic Secret Santa choice.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "under-500"
+  },
+  {
+    "id": "secret-santa-4",
+    "title": "Adjustable Santa Bracelet",
+    "product_link": "https://amzn.to/3NPUSjt",
+    "image_url": "https://m.media-amazon.com/images/I/31df-xRYmEL.jpg",
+    "description": "Festive bracelet with Santa charm — fun and wearable.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "under-500"
+  },
+  {
+    "id": "secret-santa-5",
+    "title": "Bryan & Candy Bath Kit",
+    "product_link": "https://amzn.to/3YKg5xK",
+    "image_url": "https://m.media-amazon.com/images/I/71TvlO1AOfL._SL1500_PIbundle-3,TopRight,0,0_AA569SH20_.jpg",
+    "description": "Bath gift set for self-care vibes.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "under-500"
+  },
+  {
+    "id": "secret-santa-6",
+    "title": "Funny Christmas Mug",
+    "product_link": "https://amzn.to/3LFeIgP",
+    "image_url": "https://m.media-amazon.com/images/I/51eRe2S1lGL._SL1500_.jpg",
+    "description": "Humorous ceramic mug — classic office/Secret Santa hit.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "under-500"
+  },
+  {
+    "id": "secret-santa-8",
+    "title": "Dream Gift Glore Customized Gift Hamper Set",
+    "product_link": "https://amzn.to/3NnZ6ih",
+    "image_url": "https://m.media-amazon.com/images/I/81QlighBLrL._SL1500_.jpg",
+    "description": "Gift combo with engraved wallet + pen + bottle & keychain — looks thoughtful and handy.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "500-1000"
+  },
+  {
+    "id": "secret-santa-9",
+    "title": "PATPAT Music Box Wooden Music Box",
+    "product_link": "https://amzn.to/4jLFOPN",
+    "image_url": "https://m.media-amazon.com/images/I/719WetEEMmL._SL1500_.jpg",
+    "description": "Beautiful musical wood box — charming and unique.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "500-1000"
+  },
+  {
+    "id": "secret-santa-10",
+    "title": "IDITRI EXPORT Premium Wooden Money Saving Box",
+    "product_link": "https://amzn.to/45f9n6t",
+    "image_url": "https://m.media-amazon.com/images/I/61zMxfGQUVL._SL1500_.jpg",
+    "description": "Cute piggy bank/memory box — fun and useful.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "500-1000"
+  },
+  {
+    "id": "secret-santa-11",
+    "title": "Collectible India Metal Radha Krishna Idol",
+    "product_link": "https://amzn.to/45XVf1A",
+    "image_url": "https://m.media-amazon.com/images/I/71OQAXM0RoL._SL1500_.jpg",
+    "description": "Decorative figurine — perfect for desk/home décor.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "500-1000"
+  },
+  {
+    "id": "secret-santa-12",
+    "title": "Parker Roller Ball Pen",
+    "product_link": "https://amzn.to/4pN2VLr",
+    "image_url": "https://m.media-amazon.com/images/I/71j7mMDSwZL._SL1500_.jpg",
+    "description": "Classic pen — simple but classy stocking filler.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "500-1000"
+  },
+  {
+    "id": "secret-santa-13",
+    "title": "5 Senses Co. Luxury Gift Hamper for Men",
+    "product_link": "https://amzn.to/49YHwKu",
+    "image_url": "https://m.media-amazon.com/images/I/611vTviwseL._SL1500_.jpg",
+    "description": "Gentleman's gift hamper — classy and festive choice.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "1000-plus"
+  },
+  {
+    "id": "secret-santa-14",
+    "title": "Personalized Men's Hamper Gift Set",
+    "product_link": "https://amzn.to/4jLnV3P",
+    "image_url": "https://m.media-amazon.com/images/I/81m4-uPrJ7L._SL1500_.jpg",
+    "description": "Personalized hamper with premium items — thoughtful and high-end.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "1000-plus"
+  },
+  {
+    "id": "secret-santa-15",
+    "title": "Indian Art Villa Copper Bottle Gift Set",
+    "product_link": "https://amzn.to/3LnXXXr",
+    "image_url": "https://m.media-amazon.com/images/I/71eW04YxgJL._SL1500_.jpg",
+    "description": "Premium copper bottle with glasses (elegant and useful).",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "1000-plus"
+  },
+  {
+    "id": "secret-santa-16",
+    "title": "Custom LED Acrylic Board",
+    "product_link": "https://amzn.to/4qSigLw",
+    "image_url": "https://m.media-amazon.com/images/I/81EDQFyieLL._SL1500_.jpg",
+    "description": "LED writing/desk board for personalized messages.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "1000-plus"
+  },
+  {
+    "id": "secret-santa-18",
+    "title": "Premium Hammam Body Gift Set",
+    "product_link": "https://amzn.to/49IASXt",
+    "image_url": "https://m.media-amazon.com/images/I/51ED2sNjilL._SL1500_.jpg",
+    "description": "Luxury spa bath set for premium gifting.",
+    "category": "gifting",
+    "subcategory": "secret-santa",
+    "price_range": "1000-plus"
+  },
+  {
+    "id": "festive-decor-1",
+    "title": "Eveready Utsav 5 Meter Lantern String Light",
+    "product_link": "https://amzn.to/4qU2tf9",
+    "image_url": "https://m.media-amazon.com/images/I/815xrWDNbeL._SL1500_.jpg",
+    "description": "Lantern-style string lights (great for balconies, living rooms, porches).",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "ambience-lights"
+  },
+  {
+    "id": "festive-decor-2",
+    "title": "KHIZAR LED Fairy Light Crystal Garland",
+    "product_link": "https://amzn.to/4jIS9Vb",
+    "image_url": "https://m.media-amazon.com/images/I/51sceJCBnzL._SL1500_.jpg",
+    "description": "Cherry blossom-style LED lights for indoor window or ceiling décor.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "ambience-lights"
+  },
+  {
+    "id": "festive-decor-3",
+    "title": "Gesto 35 Feets LED Serial String Lights",
+    "product_link": "https://amzn.to/49rYEIr",
+    "image_url": "https://m.media-amazon.com/images/I/71gePWXwt3S._SL1500_.jpg",
+    "description": "Classic long chain of lights for gardens, pillars, and doorways.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "ambience-lights"
+  },
+  {
+    "id": "festive-decor-4",
+    "title": "Crompton Galaxy Decoration String Fairy Lights",
+    "product_link": "https://amzn.to/45j7ANM",
+    "image_url": "https://m.media-amazon.com/images/I/71Bp9qlQFQL._SL1500_.jpg",
+    "description": "Budget friendly fairy lights that work across festivals.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "ambience-lights"
+  },
+  {
+    "id": "festive-decor-5",
+    "title": "ILIKA Decoration Lantern Lamps",
+    "product_link": "https://amzn.to/4bEHs3N",
+    "image_url": "https://m.media-amazon.com/images/I/4123ssuXB9L.jpg",
+    "description": "Festive lanterns (standalone lamps) to add a focal point.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "ambience-lights"
+  },
+  {
+    "id": "festive-decor-6",
+    "title": "Fevicryl Festive Ganesha Backdrop Kit",
+    "product_link": "https://amzn.to/49qm3Ke",
+    "image_url": "https://m.media-amazon.com/images/I/719gkIg6DxL._SL1500_.jpg",
+    "description": "Traditional mural/backdrop kit ideal for mandir or pooja space.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "wall-diy"
+  },
+  {
+    "id": "festive-decor-7",
+    "title": "Fevicryl Tyohaar DIY Festive Decor Kit",
+    "product_link": "https://amzn.to/4jOD4RU",
+    "image_url": "https://m.media-amazon.com/images/I/61wlSo5iPdL._SL1500_.jpg",
+    "description": "DIY rangoli, toran, and thali décor set for hands-on festivity.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "wall-diy"
+  },
+  {
+    "id": "festive-decor-8",
+    "title": "PEC Fabric Festive Toran Banner",
+    "product_link": "https://amzn.to/4b4CAER",
+    "image_url": "https://m.media-amazon.com/images/I/71Wt6dku6oL._SL1500_.jpg",
+    "description": "Colorful banner/toran to hang over doorways.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "wall-diy"
+  },
+  {
+    "id": "festive-decor-9",
+    "title": "CraftVatika Wall Pom Pom Hanging",
+    "product_link": "https://amzn.to/45fc8ER",
+    "image_url": "https://m.media-amazon.com/images/I/612zhyWbNAL._SL1500_.jpg",
+    "description": "Fun pom-pom and bells wall décor for living spaces.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "wall-diy"
+  },
+  {
+    "id": "festive-decor-10",
+    "title": "Moroccan Glass Mosaic Candle Holder Set of 2",
+    "product_link": "https://amzn.to/4qKoUnH",
+    "image_url": "https://m.media-amazon.com/images/I/61DMl-F0sUL._SL1500_.jpg",
+    "description": "Glass candle holders that give lovely light reflections.",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "accent-pieces"
+  },
+  {
+    "id": "festive-decor-11",
+    "title": "12 Stars LED Multicolor String Lights",
+    "product_link": "https://amzn.to/4pLdXka",
+    "image_url": "https://m.media-amazon.com/images/I/71-s35zTh1L._SL1500_.jpg",
+    "description": "Star shaped LED lights for windows or trees (great year-round).",
+    "category": "gifting",
+    "subcategory": "festive-decor",
+    "price_range": "accent-pieces"
+  },
+  {
+    "id": "home-decor-1",
+    "title": "Hexagon Golden Wall Mirror Stickers",
+    "product_link": "https://amzn.to/4b6znEY",
+    "image_url": "https://m.media-amazon.com/images/I/71yS-U+MRkL._SL1500_.jpg",
+    "description": "Minimal, reflective wall accent that boosts light and aesthetic.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "wall-decor"
+  },
+  {
+    "id": "home-decor-2",
+    "title": "Handmade 3D Wooden Botanical Wall Art",
+    "product_link": "https://amzn.to/4pFG1W7",
+    "image_url": "https://m.media-amazon.com/images/I/31fxE8cjAmL._SL1500_.jpg",
+    "description": "Wood art with natural texture and minimalist look.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "wall-decor"
+  },
+  {
+    "id": "home-decor-3",
+    "title": "Artificial Potted Plants, Artificial Plastic Eucalyptus Plants",
+    "product_link": "https://amzn.to/4r3Rf8e",
+    "image_url": "https://m.media-amazon.com/images/I/8139T8YbdkL._SL1500_.jpg",
+    "description": "Small indoor potted houseplants, small faux plants for home décor.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "plants"
+  },
+  {
+    "id": "home-decor-4",
+    "title": "Decazone Macrame Wall Hanging Shelf",
+    "product_link": "https://amzn.to/49s20v1",
+    "image_url": "https://m.media-amazon.com/images/I/81zlpuUbVBL._SL1500_.jpg",
+    "description": "Boho shelf for small plants or décor.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "shelves"
+  },
+  {
+    "id": "home-decor-5",
+    "title": "Homesake Modern Small Crystal Table Lamp",
+    "product_link": "https://amzn.to/3NsqhbG",
+    "image_url": "https://m.media-amazon.com/images/I/71OdSxSTnJL._SL1500_.jpg",
+    "description": "Stylish light accent for tables/corners.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "lighting"
+  },
+  {
+    "id": "home-decor-6",
+    "title": "FUNTEREST Metal Wall Decoration",
+    "product_link": "https://amzn.to/3NqbHBG",
+    "image_url": "https://m.media-amazon.com/images/I/71q9exMRS2L._SL1500_.jpg",
+    "description": "Metal leaf wall art — simple yet elegant.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "wall-decor"
+  },
+  {
+    "id": "home-decor-7",
+    "title": "FLYNGO Vintage Car Key Holder",
+    "product_link": "https://amzn.to/49BeeSd",
+    "image_url": "https://m.media-amazon.com/images/I/51jSmPbWs9L._SL1500_.jpg",
+    "description": "Fun and chic accent piece/gift item.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "accessories"
+  },
+  {
+    "id": "home-decor-8",
+    "title": "CraftVatika Modern Abstract Family Sculpture Set",
+    "product_link": "https://amzn.to/3NrURlI",
+    "image_url": "https://m.media-amazon.com/images/I/51pebrJAr-L._SL1500_.jpg",
+    "description": "Modern abstract family sculpture set for living room décor.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "sculptures"
+  },
+  {
+    "id": "home-decor-9",
+    "title": "VRB Dec PlasticTmBunch Dahlia Artificial Flower Bunch",
+    "product_link": "https://amzn.to/3NqEHJt",
+    "image_url": "https://m.media-amazon.com/images/I/71OlYPVdXUL._SL1500_.jpg",
+    "description": "Fake flowers for gifting, home, office, bedroom decoration items flowers for vase (2 Pcs White+Red Bunch).",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "flowers"
+  },
+  {
+    "id": "home-decor-10",
+    "title": "Lamp master Golden Bird Wall Light",
+    "product_link": "https://amzn.to/4jN2kIi",
+    "image_url": "https://m.media-amazon.com/images/I/41ynJM3j1vL._SL1500_.jpg",
+    "description": "Modern wall lamps for bedroom, wall lights for home decoration, bedside wall lamp scone for restaurant/cafe.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "lighting"
+  },
+  {
+    "id": "home-decor-11",
+    "title": "AMASS HANDICRAFTS Planters for Indoor - Outdoor Plants & Modern Metal Floor Tall Plant Stand",
+    "product_link": "https://amzn.to/4qrb3Ci",
+    "image_url": "https://m.media-amazon.com/images/I/610TpLqikmL._SL1500_.jpg",
+    "description": "Modern metal floor tall plant stand for garden, balcony & living room & mid century plant stands with pots set of 2 flower pots.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "planters"
+  },
+  {
+    "id": "home-decor-12",
+    "title": "SNS DECOR Metal Peacock Wall Art Decorations",
+    "product_link": "https://amzn.to/4pJa3sc",
+    "image_url": "https://m.media-amazon.com/images/I/818xVwc3sKL._SL1500_.jpg",
+    "description": "Perfect 3D wall sculpture for living room, bedroom, drawing room & office (Golden, Size:32x30inch).",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "wall-decor"
+  },
+  {
+    "id": "home-decor-13",
+    "title": "Abstract Wall Planter Hanging Flower Vase",
+    "product_link": "https://amzn.to/49GdIRD",
+    "image_url": "https://m.media-amazon.com/images/I/51HRYNMzhAL._SL1500_.jpg",
+    "description": "Artistic wall planter with built-in vase — looks like sculpture.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "planters"
+  },
+  {
+    "id": "home-decor-14",
+    "title": "Pranjals Kathakali Ship LED Metal Wall Decor",
+    "product_link": "https://amzn.to/4qrRrhm",
+    "image_url": "https://m.media-amazon.com/images/I/71vOWBQzUIL._SL1500_.jpg",
+    "description": "Cultural/artistic LED wall hanging that's also a centerpiece.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "wall-decor"
+  },
+  {
+    "id": "home-decor-15",
+    "title": "Large Floor Ceramic Vase",
+    "product_link": "https://amzn.to/3LMt7b3",
+    "image_url": "https://m.media-amazon.com/images/I/61gcS0e+O1L._SL1500_.jpg",
+    "description": "Large floor ceramic vase for elegant home decoration.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "vases"
+  },
+  {
+    "id": "home-decor-16",
+    "title": "Pranjals House White Metal Seven Running Horses Wall Art with LED Lights",
+    "product_link": "https://amzn.to/4b5Ubwb",
+    "image_url": "https://m.media-amazon.com/images/I/61TGeuFV9RL._SL1500_.jpg",
+    "description": "37x23 inch wall art with mandala sun design and LED lights.",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "price_range": "wall-decor"
+  },
+  {
+    "id": "vastu-decor-1",
+    "title": "Metal OM Wall Hanging",
+    "product_link": "https://amzn.to/4sLDDzZ",
+    "image_url": "https://m.media-amazon.com/images/I/61Ntzuzo+RL._SL1500_.jpg",
+    "description": "Direction: North/North-East. Benefit: Spiritual harmony, peace & auspicious energy entry.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "traditional-symbols"
+  },
+  {
+    "id": "vastu-decor-2",
+    "title": "Gold Plated Kamdhenu Cow Statue",
+    "product_link": "https://amzn.to/49ugYk4",
+    "image_url": "https://m.media-amazon.com/images/I/91mB3x927yL._SL1500_.jpg",
+    "description": "Direction: East/North-East. Benefit: Symbol of abundance, nourishment & prosperity.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "traditional-symbols"
+  },
+  {
+    "id": "vastu-decor-3",
+    "title": "Elephant Family Statue",
+    "product_link": "https://amzn.to/49ZiomN",
+    "image_url": "https://m.media-amazon.com/images/I/719xkgdzLRS._SL1500_.jpg",
+    "description": "Direction: North/East. Benefit: Wisdom, protection & good fortune.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "traditional-symbols"
+  },
+  {
+    "id": "vastu-decor-4",
+    "title": "Peacock Wall Painting Set",
+    "product_link": "https://amzn.to/4aZtCJ3",
+    "image_url": "https://m.media-amazon.com/images/I/918y3-QapcL._SL1500_.jpg",
+    "description": "Direction: East/North-East. Benefit: Grace, beauty & calm vibes in living spaces.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "wall-art"
+  },
+  {
+    "id": "vastu-decor-5",
+    "title": "Rising Sun Vastu Wall Art",
+    "product_link": "https://amzn.to/4jKw2h5",
+    "image_url": "https://m.media-amazon.com/images/I/71A8rk9RmeL._SL1500_.jpg",
+    "description": "Direction: East. Benefit: New beginnings, clarity & optimism.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "wall-art"
+  },
+  {
+    "id": "vastu-decor-6",
+    "title": "Pure Copper Pyramid Set",
+    "product_link": "https://amzn.to/4sMyK9E",
+    "image_url": "https://m.media-amazon.com/images/I/71nURSVIStL._SL1500_.jpg",
+    "description": "Direction: North-East / Centre. Benefit: Enhances positive energy flow & reduces stagnant vibes.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "energy-balance"
+  },
+  {
+    "id": "vastu-decor-8",
+    "title": "Luxury 3D Golden Koi Fish Wall Art",
+    "product_link": "https://amzn.to/4a0nC1C",
+    "image_url": "https://m.media-amazon.com/images/I/81LakkeABjL._SL1500_.jpg",
+    "description": "Direction: North/East. Benefit: Koi fish symbolize wealth, success & flow of opportunities.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "symbolic-decor"
+  },
+  {
+    "id": "vastu-decor-9",
+    "title": "Koi Fish Vastu Wall Decor",
+    "product_link": "https://amzn.to/49HnWRM",
+    "image_url": "https://m.media-amazon.com/images/I/81bai4tKc+L._SL1500_.jpg",
+    "description": "Direction: North/East. Benefit: Similar prosperity symbolism for living room or office.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "symbolic-decor"
+  },
+  {
+    "id": "vastu-decor-10",
+    "title": "Crystal Glass Vastu Turtle (Tortoise)",
+    "product_link": "https://amzn.to/49t5kGg",
+    "image_url": "https://m.media-amazon.com/images/I/51GJEAVCQNL._SL1500_.jpg",
+    "description": "Direction: North/East. Benefit: Tortoise represents stability, career grounding & long-term success.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "symbolic-decor"
+  },
+  {
+    "id": "vastu-decor-11",
+    "title": "Lucky Bamboo Plant",
+    "product_link": "https://amzn.to/4qX5ueL",
+    "image_url": "https://m.media-amazon.com/images/I/71vtat-PVFL._SL1500_.jpg",
+    "description": "Direction: Entrance/Foyer (North, North-East). Benefit: Classic Vastu plant for positive energy, luck & wealth attraction.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "plants"
+  },
+  {
+    "id": "vastu-decor-12",
+    "title": "Jade Plant",
+    "product_link": "https://amzn.to/49Ho6IS",
+    "image_url": "https://m.media-amazon.com/images/I/71uFuyWXYLL._SL1500_.jpg",
+    "description": "Direction: North or East. Benefit: Believed to bring financial prosperity, growth & stability. Jade is connected with wealth in many traditions.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "plants"
+  },
+  {
+    "id": "vastu-decor-13",
+    "title": "Lakshmi Kamal Plant",
+    "product_link": "https://amzn.to/4bz9g9K",
+    "image_url": "https://m.media-amazon.com/images/I/61i5bB44z5L._SL1500_.jpg",
+    "description": "Direction: North/East. Benefit: Known as a prosperity plant, symbolically associated with goddess Laxmi energy.",
+    "category": "gifting",
+    "subcategory": "vastu-decor",
+    "price_range": "plants"
+  },
+  {
+    "id": "wfh-comfort-1",
+    "title": "Berlin Orthopedic Boss Chair",
+    "product_link": "https://amzn.to/3Z4x5yZ",
+    "image_url": "https://m.media-amazon.com/images/I/81G8PL4PySL._SL1500_.jpg",
+    "description": "Comfortable orthopedic support for long hours with lumbar care — ideal if you sit all day.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "ergonomic-chairs"
+  },
+  {
+    "id": "wfh-comfort-2",
+    "title": "Green Soul Kiev Orthopedic Boss Office Chair",
+    "product_link": "https://amzn.to/4pG9BuF",
+    "image_url": "https://m.media-amazon.com/images/I/81cdcW4QRDL._SL1500_.jpg",
+    "description": "High-back design + ergonomic cushioning helps reduce back strain.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "ergonomic-chairs"
+  },
+  {
+    "id": "wfh-comfort-3",
+    "title": "CELLBELL C190 Berlin Office Chair",
+    "product_link": "https://amzn.to/3YKCrPI",
+    "image_url": "https://m.media-amazon.com/images/I/71T6y466zIL._SL1500_.jpg",
+    "description": "Great mesh chair for breathability and support (budget-friendly).",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "ergonomic-chairs"
+  },
+  {
+    "id": "wfh-comfort-4",
+    "title": "DROGO Premium Ergonomic Office Chair",
+    "product_link": "https://amzn.to/4qStiAq",
+    "image_url": "https://m.media-amazon.com/images/I/71PpERlpjXL._SL1500_.jpg",
+    "description": "Premium, fully adjustable with headrest & lumbar support for maximum comfort.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "ergonomic-chairs"
+  },
+  {
+    "id": "wfh-comfort-5",
+    "title": "ROSE Mono Ergonomic Office Chair",
+    "product_link": "https://amzn.to/4a5awzh",
+    "image_url": "https://m.media-amazon.com/images/I/81Ka6FAoh2L._SL1500_.jpg",
+    "description": "Ergonomic design at a value price — good entry-level upgrade.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "ergonomic-chairs"
+  },
+  {
+    "id": "wfh-comfort-6",
+    "title": "Portronics My Buddy D Adjustable Standing Laptop Desk/Table",
+    "product_link": "https://amzn.to/49qv1am",
+    "image_url": "https://m.media-amazon.com/images/I/51GKJK63mxL._SL1500_.jpg",
+    "description": "Adjustable height for standing or sitting work — promotes circulation and reduces sedentary strain.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "workstation-desk"
+  },
+  {
+    "id": "wfh-comfort-7",
+    "title": "VISBY INDIA Office Computer Table for Home/Writing Desk",
+    "product_link": "https://amzn.to/4sMaKDM",
+    "image_url": "https://m.media-amazon.com/images/I/51Rulm70RrL._SL1500_.jpg",
+    "description": "Simple, functional desk for compact workspaces.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "workstation-desk"
+  },
+  {
+    "id": "wfh-comfort-8",
+    "title": "Cubiker Multipurpose Foldable Laptop Table",
+    "product_link": "https://amzn.to/4t3nMgv",
+    "image_url": "https://m.media-amazon.com/images/I/61EGZCfwX5L._SL1500_.jpg",
+    "description": "Foldable lap desk with cup & pen holders — perfect for couch or bed working sessions.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "workstation-desk"
+  },
+  {
+    "id": "wfh-comfort-9",
+    "title": "Amazon Basics ABS 2‑in‑1 Laptop & Mobile Stand",
+    "product_link": "https://amzn.to/49BjJjP",
+    "image_url": "https://m.media-amazon.com/images/I/61QxfC9mAGL._SL1500_.jpg",
+    "description": "Adjustable laptop stand improves screen height & posture while reducing neck strain.",
+    "category": "productivity",
+    "subcategory": "wfh-comfort",
+    "price_range": "accessories"
+  }
+]
