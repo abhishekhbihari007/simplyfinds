@@ -17,7 +17,7 @@ const CategoriesSection = ({
   getFallbackImage
 }: CategoriesSectionProps) => {
   return (
-    <section id="categories" className="py-12 px-4 md:px-8 bg-teal-50/30">
+    <section id="categories" className="scroll-mt-24 py-12 px-4 md:px-8 bg-teal-50/30">
       <div className="max-w-7xl mx-auto">
         {/* Section header */}
         <div className="text-center mb-8">

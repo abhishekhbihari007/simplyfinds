@@ -1,17 +1,34 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import { useLocation } from "react-router-dom";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import FeaturedBanner from "@/components/FeaturedBanner";
 import TrendingCarousel from "@/components/TrendingCarousel";
+import TrendingCuratedList from "@/components/TrendingCuratedList";
 import CategoriesSection from "@/components/CategoriesSection";
 import Footer from "@/components/Footer";
 import { categories } from "@/data/categories";
 
+/** First category id so first section is always open on home (per PDF). */
+const FIRST_CATEGORY_ID = categories[0]?.id ?? "travel";
+
 const Index = () => {
   const location = useLocation();
-  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(FIRST_CATEGORY_ID);
   const [imageErrors, setImageErrors] = useState<Record<string, boolean>>({});
+  const prevPathRef = useRef(location.pathname);
+
+  // When coming back from category/subcategory to home, scroll to categories (per PDF: easy to scroll)
+  useEffect(() => {
+    const prev = prevPathRef.current;
+    prevPathRef.current = location.pathname;
+    if (prev.startsWith("/category") && location.pathname === "/") {
+      const t = setTimeout(() => {
+        document.getElementById("categories")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      }, 150);
+      return () => clearTimeout(t);
+    }
+  }, [location.pathname]);
 
   useEffect(() => {
     // Handle hash navigation
@@ -40,7 +57,7 @@ const Index = () => {
     // Listen for category selection events from navbar/footer
     const handleCategorySelect = (e: CustomEvent) => {
       const categoryId = e.detail;
-      // Toggle: if same category is already selected, collapse it
+      // Toggle: if same category is already selected, collapse it (per PDF: do not change)
       setSelectedCategory((prev) => prev === categoryId ? null : categoryId);
     };
 
@@ -88,6 +105,7 @@ const Index = () => {
           title="Trending Finds"
           description="Popular products people are discovering right now"
         />
+        <TrendingCuratedList />
         <CategoriesSection 
           onCategoryClick={handleCategoryClick} 
           selectedCategory={selectedCategory}
