@@ -2,6 +2,7 @@ import { useParams, useNavigate, Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { categories } from "@/data/categories";
 import { getProductsBySubcategory } from "@/data/products";
+import { getProductImageUrl } from "@/lib/productImage";
 import { ArrowLeft, ChevronRight, ExternalLink } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -35,7 +36,7 @@ const Category = () => {
     // Generate a gradient-based placeholder based on category
     const colors: Record<string, string> = {
       travel: "from-blue-400 to-cyan-500",
-      "life-stages": "from-pink-400 to-orange-500",
+      "home-360": "from-emerald-400 to-teal-500",
       productivity: "from-cyan-400 to-teal-500",
       gifting: "from-rose-400 to-coral-500",
       tech: "from-indigo-400 to-purple-500",
@@ -53,7 +54,7 @@ const Category = () => {
   const getGradientClass = (categoryId: string) => {
     const colors: Record<string, string> = {
       travel: "from-blue-400 to-cyan-500",
-      "life-stages": "from-pink-400 to-orange-500",
+      "home-360": "from-emerald-400 to-teal-500",
       productivity: "from-cyan-400 to-teal-500",
       gifting: "from-rose-400 to-coral-500",
       tech: "from-indigo-400 to-purple-500",
@@ -154,23 +155,16 @@ const Category = () => {
                               key={product.id}
                               className="bg-gray-50 rounded-xl overflow-hidden border border-gray-200 hover:border-teal-300 hover:shadow-md transition-all duration-300 flex flex-col group"
                             >
-                              {/* Product Image */}
+                              {/* Product Image — use getProductImageUrl for correct first image or subcategory fallback */}
                               <div className="relative w-full h-40 overflow-hidden bg-gray-100 flex items-center justify-center">
-                                {product.image_url ? (
+                                {!productImageErrors[product.id] && getProductImageUrl(product) ? (
                                     <img
-                                    src={product.image_url}
+                                    src={getProductImageUrl(product)!}
                                     alt={product.title}
                                     className="w-full h-full object-contain object-center transition-transform duration-700 ease-out p-2 group-hover:scale-105"
-                                    style={{ 
-                                      maxWidth: '100%', 
-                                      maxHeight: '100%',
-                                      objectFit: 'contain'
-                                    }}
+                                    style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
                                     loading="lazy"
-                                    onError={(e) => {
-                                      handleProductImageError(product.id);
-                                      e.currentTarget.style.display = 'none';
-                                    }}
+                                    onError={() => handleProductImageError(product.id)}
                                   />
                                 ) : (
                                   <div className={`w-full h-full bg-gradient-to-br ${getGradientClass(category.id)} flex items-center justify-center`}>

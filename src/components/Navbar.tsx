@@ -205,6 +205,19 @@ const Navbar = () => {
                   <span className="absolute -bottom-1 left-0 right-0 h-0.5 bg-primary rounded-full" />
                 )}
               </Link>
+              <Link
+                to="/find-for-me"
+                className={`text-sm font-medium transition-colors relative ${
+                  activeSection === "find-for-me"
+                    ? "text-primary font-semibold"
+                    : "text-muted-foreground hover:text-primary"
+                }`}
+              >
+                Find For Me
+                {activeSection === "find-for-me" && (
+                  <span className="absolute -bottom-1 left-0 right-0 h-0.5 bg-primary rounded-full" />
+                )}
+              </Link>
             </div>
 
             {/* Mobile Menu Button */}
@@ -322,6 +335,17 @@ const Navbar = () => {
                 }`}
               >
                 <span className="font-medium">Contact</span>
+              </Link>
+              <Link
+                to="/find-for-me"
+                onClick={() => setIsOpen(false)}
+                className={`flex items-center gap-3 px-4 py-3 rounded-xl w-full text-left transition-colors ${
+                  activeSection === "find-for-me"
+                    ? "bg-primary/10 text-primary font-semibold"
+                    : "hover:bg-secondary"
+                }`}
+              >
+                <span className="font-medium">Find For Me</span>
               </Link>
             </div>
           </motion.nav>

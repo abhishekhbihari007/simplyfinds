@@ -2,6 +2,7 @@ import { useParams, useNavigate, Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { categories } from "@/data/categories";
 import { getProductsBySubcategoryGrouped } from "@/data/products";
+import { getProductImageUrl } from "@/lib/productImage";
 import { ArrowLeft, ExternalLink } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -33,7 +34,7 @@ const Subcategory = () => {
   const getFallbackImage = () => {
     const colors: Record<string, string> = {
       travel: "from-blue-400 to-cyan-500",
-      "life-stages": "from-pink-400 to-orange-500",
+      "home-360": "from-emerald-400 to-teal-500",
       productivity: "from-cyan-400 to-teal-500",
       gifting: "from-rose-400 to-coral-500",
       tech: "from-indigo-400 to-purple-500",
@@ -86,29 +87,22 @@ const Subcategory = () => {
           <div className="max-w-7xl mx-auto">
             {Object.entries(productsByCategory).map(([categoryName, products]) => (
               <div key={categoryName} className="mb-16 last:mb-0">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
                   {products.map((product) => (
                     <div
                       key={product.id}
                       className="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100 hover:border-teal-200 hover:-translate-y-1 flex flex-col"
                     >
-                      {/* Image Section */}
+                      {/* Image Section — use resolved image URL so placeholder/fallback works; onError show gradient */}
                       <div className="relative w-full h-48 overflow-hidden bg-gray-100 flex items-center justify-center">
-                        {product.image_url ? (
+                        {!imageErrors[product.id] && getProductImageUrl(product) ? (
                           <img
-                            src={product.image_url}
+                            src={getProductImageUrl(product)!}
                             alt={product.title}
                             className="w-full h-full object-contain object-center transition-transform duration-700 ease-out p-3 hover:scale-105"
-                            style={{ 
-                              maxWidth: '100%', 
-                              maxHeight: '100%',
-                              objectFit: 'contain'
-                            }}
+                            style={{ maxWidth: '100%', maxHeight: '100%', objectFit: 'contain' }}
                             loading="lazy"
-                            onError={(e) => {
-                              handleImageError(product.id);
-                              e.currentTarget.style.display = 'none';
-                            }}
+                            onError={() => handleImageError(product.id)}
                           />
                         ) : (
                           getFallbackImage()

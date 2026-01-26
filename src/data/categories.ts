@@ -49,31 +49,46 @@ export const categories: Category[] = [
     ],
   },
   {
-    id: "life-stages",
-    title: "Life Stages",
-    emoji: "🎒",
-    description: "Everything you need for life's big milestones",
-    color: "from-coral-400/20 to-orange-500/20",
+    id: "home-360",
+    title: "Home 360",
+    emoji: "🏠",
+    description: "Cinematic screens, cooltech appliances, laundry, kitchen, water, cleaning & dishcare",
+    color: "from-emerald-400/20 to-teal-500/20",
     subcategories: [
-      { 
-        name: "College Starter Pack", 
-        slug: "college-starter",
-        image: "https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      {
+        name: "Smart TVs – From compact to big screen",
+        slug: "cinematic-home-screens",
+        image: "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
       },
-      { 
-        name: "First Job / Office Essentials", 
-        slug: "first-job",
-        image: "https://images.unsplash.com/photo-1497215842964-222b430dc094?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      {
+        name: "CoolTech Appliances – Refrigerators",
+        slug: "cooltech-refrigerators",
+        image: "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
       },
-      { 
-        name: "Moving to a New Home", 
-        slug: "new-home",
-        image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      {
+        name: "Laundry Intelligence",
+        slug: "laundry-intelligence",
+        image: "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
       },
-      { 
-        name: "First-Time Parents Essentials", 
-        slug: "first-parents",
-        image: "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      {
+        name: "Modern Kitchen Powerhouse",
+        slug: "modern-kitchen-powerhouse",
+        image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      },
+      {
+        name: "Pure Water Systems",
+        slug: "pure-water-systems",
+        image: "https://images.unsplash.com/photo-1548839140-29a749e1cf4d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      },
+      {
+        name: "AutoClean Systems",
+        slug: "autoclean-systems",
+        image: "https://images.unsplash.com/photo-1558317374-067fb5f30001?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      },
+      {
+        name: "DishCare Appliances",
+        slug: "dishcare-appliances",
+        image: "https://images.unsplash.com/photo-1585659722983-3a675dabf23d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
       },
     ],
   },
@@ -88,6 +103,11 @@ export const categories: Category[] = [
         name: "Work From Home Comfort Essentials", 
         slug: "wfh-comfort",
         image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
+      },
+      { 
+        name: "Micro-Startup Toolkit (ideas)", 
+        slug: "micro-startup-toolkit",
+        image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600&q=80"
       },
     ],
   },

@@ -4,6 +4,7 @@ import { Category } from "@/data/categories";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { getProductsBySubcategory } from "@/data/products";
+import { getProductImageUrl } from "@/lib/productImage";
 
 interface CategoryCardProps {
   category: Category;
@@ -194,11 +195,11 @@ const CategoryCard = ({
                                     key={product.id}
                                     className="bg-gray-50 rounded-lg overflow-hidden border border-gray-200 hover:border-teal-300 hover:shadow-md transition-all group/product"
                                   >
-                                    {/* Product Image */}
+                                    {/* Product Image — use getProductImageUrl for correct first image or fallback */}
                                     <div className="relative w-full h-32 overflow-hidden bg-gray-100 flex items-center justify-center">
-                                      {product.image_url && !productImageErrors[product.id] ? (
+                                      {!productImageErrors[product.id] && getProductImageUrl(product) ? (
                                         <img
-                                          src={product.image_url}
+                                          src={getProductImageUrl(product)!}
                                           alt={product.title}
                                           className="w-full h-full object-contain p-2 group-hover/product:scale-105 transition-transform duration-500"
                                           loading="lazy"

@@ -7,17 +7,74 @@
     "category": "gifting",
     "subcategory": "home-decor",
     "description": "Cute & Stylish Soft Doll for Kids & Girls | Adorable Collectible Gift for Playtime & Room Décor | 15cm",
-    "isTrending": true
+    "isTrending": true,
+    "lovedBy": "22k"
   },
   {
     "id": "trending-2",
     "title": "Nike Men Court Vision LO NN White/Black-White Basketball Shoes",
     "product_link": "https://amzn.to/3NhA0ld",
     "image_url": "https://m.media-amazon.com/images/I/613l8ZN8TfL._SL1500_.jpg",
-    "category": "life-stages",
-    "subcategory": "college-starter",
+    "category": "gifting",
+    "subcategory": "home-decor",
     "description": "Classic Basketball-Inspired Sneakers | Comfortable Design | Amazon Bestseller",
-    "isTrending": true
+    "isTrending": true,
+    "lovedBy": "38k"
+  },
+  {
+    "id": "trending-3",
+    "title": "Nexplora Industries Metal Large Gold Elegant Kamdhenu Cow and Calf Idol Showpiece",
+    "product_link": "https://amzn.to/49sa8f4",
+    "image_url": "https://m.media-amazon.com/images/I/51L+d3O3rQL._SL1500_.jpg",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "description": "Metal Large Gold Elegant Kamdhenu Cow and Calf Idol Showpiece | Length 22 cm | Gold Antique Finish | 1 Piece",
+    "isTrending": true,
+    "lovedBy": "18k"
+  },
+  {
+    "id": "trending-4",
+    "title": "RIZIK STORE Iron Frame Handmade Drawer Square Coffee Table",
+    "product_link": "https://amzn.to/4qqC6xx",
+    "image_url": "https://m.media-amazon.com/images/I/71RN--WoLvL._SL1500_.jpg",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "description": "20\"x20\" Coffee Table/Nesting Table/Side Table/Center Table with Engineered Wood Top for Living Room/Drawing Room/Balcony",
+    "isTrending": true,
+    "lovedBy": "25k"
+  },
+  {
+    "id": "trending-5",
+    "title": "The Attic Carlston Coffee Table",
+    "product_link": "https://amzn.to/3LuXKBL",
+    "image_url": "https://m.media-amazon.com/images/I/71nqP73VwzL._SL1500_.jpg",
+    "category": "gifting",
+    "subcategory": "home-decor",
+    "description": "Coffee Table for Living Room | Solid Wood Centre Table with Ceramic Top | Tobacco Brown Finish",
+    "isTrending": true,
+    "lovedBy": "20k"
+  },
+  {
+    "id": "trending-6",
+    "title": "WOL3D Bambu Lab A1 Mini 3D Printer",
+    "product_link": "https://amzn.to/4jUGouL",
+    "image_url": "https://m.media-amazon.com/images/I/61cRmc5HApL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "500mm/s Speed | 180×180×180mm Build | Multi-Color Printing | Auto Bed Leveling | Direct Drive Extruder | AI Failure Detection | Quiet & Fully Assembled",
+    "isTrending": true,
+    "lovedBy": "32k"
+  },
+  {
+    "id": "trending-7",
+    "title": "ECOVACS DEEBOT N20 PRO 2 in 1 Robotic Vacuum Cleaner & Mop",
+    "product_link": "https://amzn.to/49LlUA9",
+    "image_url": "https://m.media-amazon.com/images/I/512BKgJiZsL._SL1500_.jpg",
+    "category": "tech",
+    "subcategory": "smart-gadgets",
+    "description": "8000 Pa Suction | Covers 3500+ Sq.Ft | Anti-Hair Tangle | Intelligent TrueMapping | Ozmo Vibrating Mop | Wet & Dry Cleaning | 300 Minutes Run-Time",
+    "isTrending": true,
+    "lovedBy": "28k"
   },
   {
     "id": "gaming-laptop-1",
@@ -571,7 +628,7 @@
   },
   {
     "id": "festive-decor-3",
-    "title": "Gesto 35 Feets LED Serial String Lights",
+    "title": "Gesto 35 Feet LED Serial String Lights",
     "product_link": "https://amzn.to/49rYEIr",
     "image_url": "https://m.media-amazon.com/images/I/71gePWXwt3S._SL1500_.jpg",
     "description": "Classic long chain of lights for gardens, pillars, and doorways.",
@@ -584,7 +641,7 @@
     "title": "Crompton Galaxy Decoration String Fairy Lights",
     "product_link": "https://amzn.to/45j7ANM",
     "image_url": "https://m.media-amazon.com/images/I/71Bp9qlQFQL._SL1500_.jpg",
-    "description": "Budget friendly fairy lights that work across festivals.",
+    "description": "Budget-friendly fairy lights that work across festivals.",
     "category": "gifting",
     "subcategory": "festive-decor",
     "price_range": "ambience-lights"
@@ -741,7 +798,7 @@
   },
   {
     "id": "home-decor-9",
-    "title": "VRB Dec PlasticTmBunch Dahlia Artificial Flower Bunch",
+    "title": "VRB Dec Plastic Bunch Dahlia Artificial Flower Bunch",
     "product_link": "https://amzn.to/3NqEHJt",
     "image_url": "https://m.media-amazon.com/images/I/71OlYPVdXUL._SL1500_.jpg",
     "description": "Fake flowers for gifting, home, office, bedroom decoration items flowers for vase (2 Pcs White+Red Bunch).",
@@ -754,7 +811,7 @@
     "title": "Lamp master Golden Bird Wall Light",
     "product_link": "https://amzn.to/4jN2kIi",
     "image_url": "https://m.media-amazon.com/images/I/41ynJM3j1vL._SL1500_.jpg",
-    "description": "Modern wall lamps for bedroom, wall lights for home decoration, bedside wall lamp scone for restaurant/cafe.",
+    "description": "Modern wall lamps for bedroom, wall lights for home decoration, bedside wall lamp sconce for restaurant/cafe.",
     "category": "gifting",
     "subcategory": "home-decor",
     "price_range": "lighting"
@@ -934,7 +991,7 @@
     "title": "Lakshmi Kamal Plant",
     "product_link": "https://amzn.to/4bz9g9K",
     "image_url": "https://m.media-amazon.com/images/I/61i5bB44z5L._SL1500_.jpg",
-    "description": "Direction: North/East. Benefit: Known as a prosperity plant, symbolically associated with goddess Laxmi energy.",
+    "description": "Direction: North/East. Benefit: Known as a prosperity plant, symbolically associated with goddess Lakshmi energy.",
     "category": "gifting",
     "subcategory": "vastu-decor",
     "price_range": "plants"
@@ -1028,5 +1085,824 @@
     "category": "productivity",
     "subcategory": "wfh-comfort",
     "price_range": "accessories"
+  },
+  {
+    "id": "micro-startup-toolkit-1",
+    "title": "Anycubic Kobra 2 Neo 3D Printer",
+    "product_link": "https://www.amazon.in/dp/B0CF4GVT8N",
+    "image_url": "https://m.media-amazon.com/images/I/71DLNUYdozL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "Multiple revenue streams: Prototyping services, custom miniatures, educational models, replacement parts, personalized gifts. Growing demand from architecture firms, engineering students, hobbyists. Compact desktop — work from home. Scale with more printers as orders increase."
+  },
+  {
+    "id": "micro-startup-toolkit-2",
+    "title": "Button Badge Maker Machine 58mm with Cutter",
+    "product_link": "https://amzn.to/4r7JYnG",
+    "image_url": "https://m.media-amazon.com/images/I/41rLV14rSVL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "Quick ROI: recover costs in 1–2 months. Diverse market: schools, colleges, events, campaigns, corporate branding. High margins: material ₹5–10 per badge, sell ₹30–100. Easy to operate — train anyone in hours."
+  },
+  {
+    "id": "micro-startup-toolkit-3",
+    "title": "Vinyl Cutter Machine",
+    "product_link": "https://amzn.to/49X6mcE",
+    "image_url": "https://m.media-amazon.com/images/I/41EVfYJE-oL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "Custom stickers, car decals, wall art, signage. T-shirts, laptop stickers, window graphics, business signage. Sell on Etsy, Instagram, your website. Low material cost, 60–70% profit margins. Estimated ₹25,000–50,000."
+  },
+  {
+    "id": "micro-startup-toolkit-4",
+    "title": "MY PRINT 5-in-1 Heat Press Machine (12x15 inch)",
+    "product_link": "https://amzn.to/49P3LTj",
+    "image_url": "https://m.media-amazon.com/images/I/71h9K7R5buL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "T-shirt business boom: custom merchandise is massive. 5-in-1: print on t-shirts, mugs, caps, plates, cushions. Event market: weddings, birthdays, corporate events. Partner with designers, influencers, event planners."
+  },
+  {
+    "id": "micro-startup-toolkit-5",
+    "title": "Laser Engraving Machine",
+    "product_link": "https://amzn.to/49X6A3u",
+    "image_url": "https://m.media-amazon.com/images/I/51mblYl5PGL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "Premium pricing: laser-engraved products command 3–5x higher prices. Wood, glass, acrylic, leather, metal. Corporate: trophies, awards, corporate gifts. India’s ₹10,000+ crore+ gifting industry needs customization."
+  },
+  {
+    "id": "micro-startup-toolkit-6",
+    "title": "Computerized Embroidery Machine",
+    "product_link": "https://amzn.to/4pYYzAW",
+    "image_url": "https://m.media-amazon.com/images/I/41UKSMeEipL._SL1500_.jpg",
+    "category": "productivity",
+    "subcategory": "micro-startup-toolkit",
+    "description": "India’s ₹15,000 crore embroidery market growing 12–15% annually. 40–70% margins. Wedding demand: sarees, blouses, ethnic wear. B2B: corporate & school uniforms, bulk orders. Start from home, scale to factory."
+  },
+  {
+    "id": "home-360-tv-1",
+    "title": "Samsung 80 cm (32 inches) HD Smart LED TV UA32H4550FUXXL",
+    "product_link": "https://amzn.to/49U7i17",
+    "image_url": "https://m.media-amazon.com/images/I/71XA+N8Xj1L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Best Value (32″): Samsung HD Smart LED with clean picture and reliable performance — great for bedrooms or kitchen spaces; strong brand trust on Amazon."
+  },
+  {
+    "id": "home-360-tv-2",
+    "title": "Xiaomi 108 cm (43 Inches) A Series Full HD Smart Google LED TV L43MA-AFIN (Black)",
+    "product_link": "https://amzn.to/49U7jCd",
+    "image_url": "https://m.media-amazon.com/images/I/81t-OFYaKpL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Best Value (43″): Popular entry-level Android TV with good app support and smooth interface — excellent for first TV or secondary room."
+  },
+  {
+    "id": "home-360-tv-3",
+    "title": "TCL 80 cms (32 inches) V5C Series Full HD Smart QLED Google TV 32V5C",
+    "product_link": "https://amzn.to/4bfd6Vv",
+    "image_url": "https://m.media-amazon.com/images/I/71NudoyP-GL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Best Value (32″): QLED panel for better colours and brightness than regular LED — great choice if you want vibrant visuals on a modest budget."
+  },
+  {
+    "id": "home-360-tv-4",
+    "title": "TCL 101 cms (40 inches) V5C Series Full HD Smart QLED TV Google TV 40V5C",
+    "product_link": "https://amzn.to/3M5pWv9",
+    "image_url": "https://m.media-amazon.com/images/I/71keqeuJ0eL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Mid-Size (40″–43″): Vivid QLED picture with Google TV, ideal for living rooms or tech-savvy homes."
+  },
+  {
+    "id": "home-360-tv-5",
+    "title": "VW 109 cm (43 inches) OptimaX Series Full HD Smart QLED Android TV VW43AQ1",
+    "product_link": "https://amzn.to/3ZynZug",
+    "image_url": "https://m.media-amazon.com/images/I/81gqvGIGoYL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Mid-Size (43″): 4K QLED option with punchy colours and smart features at a competitive price."
+  },
+  {
+    "id": "home-360-tv-6",
+    "title": "Sony 139 cm (55 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV K-55S25BM2",
+    "product_link": "https://amzn.to/460Bs1C",
+    "image_url": "https://m.media-amazon.com/images/I/81Vs1ZXn43L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Popular Large (55″): Mini-LED panel for bright HDR performance, vibrant colour and deep contrast — excellent value for movies/streaming."
+  },
+  {
+    "id": "home-360-tv-7",
+    "title": "LG 139 cm (55 inches) UA82 Series 4K Ultra HD (3840 x 2160) Smart webOS LED TV 55UA82006LA",
+    "product_link": "https://amzn.to/3YYG7xm",
+    "image_url": "https://m.media-amazon.com/images/I/81d2WyGlYUL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Popular Large (55″): Balanced all-round TV with crisp 4K, webOS and reliable daily performance — great for families and media lovers."
+  },
+  {
+    "id": "home-360-tv-8",
+    "title": "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
+    "product_link": "https://amzn.to/49G5IRR",
+    "image_url": "https://m.media-amazon.com/images/I/81EkAiUbMaL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Premium (65″): Loved for brand reliability, sharp picture processing, Google TV, and smooth upscaling — excellent centerpiece TV."
+  },
+  {
+    "id": "home-360-tv-9",
+    "title": "Philips 190 cm (75 inch) 8100 Series 4K Ultra HD Smart QLED Google TV 75PQT8100/94",
+    "product_link": "https://amzn.to/49PXTry",
+    "image_url": "https://m.media-amazon.com/images/I/81A34fwgqJL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Premium (75″): Value-focused QLED with HDR, Dolby Vision and full smart TV ecosystem — fantastic for big living rooms."
+  },
+  {
+    "id": "home-360-tv-10",
+    "title": "Sony 189 cm (75 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV K-75S25BM2",
+    "product_link": "https://amzn.to/49WraAT",
+    "image_url": "https://m.media-amazon.com/images/I/81Ez8gIhXuL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cinematic-home-screens",
+    "description": "Premium (75″): Trusted big screen with 4K UHD, good picture clarity and all essential smart features — perfect for home cinema vibe."
+  },
+  {
+    "id": "home-360-fridge-1",
+    "title": "Samsung 189 L, 5 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR21D2H259U/HL, Paradise Bloom Blue, Base Stand Drawer)",
+    "product_link": "https://amzn.to/4acM1B8",
+    "image_url": "https://m.media-amazon.com/images/I/71+grZGoohL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Great performance/value for money from a trusted brand — ideal for bachelors or couples & small kitchens. Users report good cooling and design."
+  },
+  {
+    "id": "home-360-fridge-2",
+    "title": "Samsung 236 L, 3 Star, Digital Inverter, Frost Free Double Door Refrigerator (RT28C3053S8/HL, Silver, Elegant Inox)",
+    "product_link": "https://amzn.to/4sXOfvN",
+    "image_url": "https://m.media-amazon.com/images/I/617w-JxsMrL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Excellent all-around daily fridge with frost-free convenience and inverter compressor — suits a small family. Often rated 5★ by buyers citing value & reliable cooling."
+  },
+  {
+    "id": "home-360-fridge-3",
+    "title": "Whirlpool 308 L 2 Star IntelliFresh Pro Convertible Inverter Frost Free Double Door Refrigerator (IF Pro INV CNV 355 Illusia Steel(2S)-TL, 2023 Model)",
+    "product_link": "https://amzn.to/4pRQ62h",
+    "image_url": "https://m.media-amazon.com/images/I/51DUC7SOiBL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Frequently rated as strong budget double door fridge with convertible features and anti-bacterial gasket. Great for 3-4 member homes."
+  },
+  {
+    "id": "home-360-fridge-4",
+    "title": "Haier 240L 2 Star Frost Free Top Mount Double Door Refrigerator|Cool Pad|200% Faster Ice Making in 49 Minutes (HEF-252EGS-P, Moon Silver)",
+    "product_link": "https://amzn.to/4k2GKj4",
+    "image_url": "https://m.media-amazon.com/images/I/61oinNdgo9L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Good frost-free fridge under ₹30K for small families, turbo icing feature, inverter cooling."
+  },
+  {
+    "id": "home-360-fridge-5",
+    "title": "Haier 190L 5 Star Direct Cool Single Door Refrigerator | 3 Toughened Glass Shelves | Fast Ice Making in Just 60 minutes | Large Veg Box| Easy Clean Back (HED-205DS-P, Dazzle Steel)",
+    "product_link": "https://amzn.to/4biCslf",
+    "image_url": "https://m.media-amazon.com/images/I/61ozP-Z7wQL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Strong basic fridge option with good energy efficiency and low running cost — excellent for singles/couples."
+  },
+  {
+    "id": "home-360-fridge-6",
+    "title": "Samsung 396 L, 3 Star, Convertible 5-in-1, Digital Inverter, Frost Free Double Door, Bespoke AI WiFi Enabled Refrigerator (RT41DG6A4DB1HL, Black Matte/Black DOI)",
+    "product_link": "https://amzn.to/3ZwyBtD",
+    "image_url": "https://m.media-amazon.com/images/I/61DIrcgNQuL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Spacious for mid-size families (~3-4 persons), convertible freezer space and efficient inverter cooling. Balanced features & capacity."
+  },
+  {
+    "id": "home-360-fridge-7",
+    "title": "LG 446L Double Door Refrigerator with Door Cooling+, Shiny Steel Finish",
+    "product_link": "https://www.amazon.in/dp/B0DK5MNPY8",
+    "image_url": "https://m.media-amazon.com/images/I/41x9YprsWBL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Large capacity with innovative door cooling, multi-airflow and inverter efficiency — great choice for families who want strong performance and convenience."
+  },
+  {
+    "id": "home-360-fridge-8",
+    "title": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi (RS76CG8003S9HL, Silver, Refined Inox)",
+    "product_link": "https://amzn.to/46eY4LV",
+    "image_url": "https://m.media-amazon.com/images/I/61Cblx5LWAL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Premium side-by-side fridge with Convertible 5-in-1 cooling and smartphone app control — ideal for large families and modern kitchens."
+  },
+  {
+    "id": "home-360-fridge-9",
+    "title": "LG 655 L Frost Free Smart Inverter Double Door Side by Side Refrigerator (GL-B257HWBY, Western Black, Express Freezing | Multi Air-Flow)",
+    "product_link": "https://amzn.to/3Z1J403",
+    "image_url": "https://m.media-amazon.com/images/I/61Ysrgq27PL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Good premium-ish side-by-side with water dispenser and frost-free design — solid value alternative to major brands."
+  },
+  {
+    "id": "home-360-fridge-10",
+    "title": "Haier SmartChoice 596L 3Star 2-Door Water Dispenser Side by Side Frost Free Refrigerator|Convertible|Smart Sense AI | Expert Inverter|Digital Display Panel (HRS-682SWDU1, Shiny Silver)",
+    "product_link": "https://amzn.to/3LUmof5",
+    "image_url": "https://m.media-amazon.com/images/I/61Oyvl71xyL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Good premium-ish side-by-side with water dispenser and frost-free design — solid value alternative to major brands."
+  },
+  {
+    "id": "home-360-fridge-11",
+    "title": "Whirlpool 270 L (Gross Capacity 300L) Frost Free Triple-Door Refrigerator (FP 313D PROTTON ROYAL ALPHA STEEL (Z)",
+    "product_link": "https://amzn.to/462YYuV",
+    "image_url": "https://m.media-amazon.com/images/I/61RBQL-aq4L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "cooltech-refrigerators",
+    "description": "Triple-door frost-free option with ample capacity — suited for medium families looking for organised storage."
+  },
+  {
+    "id": "home-360-laundry-1",
+    "title": "Whirlpool Whitemagic Elite 7kg 5 Star Fully Automatic Top-Load Washing Machine - Grey",
+    "product_link": "https://amzn.to/49Ua1HR",
+    "image_url": "https://m.media-amazon.com/images/I/41uLJFVGBGL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "Capacity: 7 kg, fully-automatic top load. Excellent for small to medium families, energy-efficient 5★ rating, 6th Sense smart sensors. Efficient cleaning, gentle on clothes; great value with high customer volume and positive reviews."
+  },
+  {
+    "id": "home-360-laundry-2",
+    "title": "Whirlpool 7.5 Kg 5 Star StainWash Royal Plus Fully Automatic Top Load Washing Machine (SW ROYAL PLUS 7.5 (H) GREY 10YMW with In-Built Heater)",
+    "product_link": "https://amzn.to/4pZJZJk",
+    "image_url": "https://m.media-amazon.com/images/I/61gVfUHxSfL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "7 kg fully-automatic top load. Affordable everyday washer with multi wash programs, delay wash and hard water wash support. Good energy efficiency and adaptability to Indian water conditions."
+  },
+  {
+    "id": "home-360-laundry-3",
+    "title": "Whirlpool 7.5 kg StainWash Royal Plus Fully Automatic Washing Machine",
+    "product_link": "https://amzn.to/4pZJZJk",
+    "image_url": "https://m.media-amazon.com/images/I/61gVfUHxSfL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "7.5 kg top load. In-built heater and multiple hot wash modes remove tough stains. Ideal for better hygiene cleaning with hot-water wash options."
+  },
+  {
+    "id": "home-360-laundry-4",
+    "title": "Whirlpool 8 Kg 5 MAGIC CLEAN PRO SW H Fully Automatic Top Load Washing Machine (MAGIC CLEAN PRO SW H KG GREY 10YMW with In-Built Heater)",
+    "product_link": "https://amzn.to/4qGdm4N",
+    "image_url": "https://m.media-amazon.com/images/I/71QiAjw7KdL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "8 kg fully-automatic top load. In-built heater, express wash, tub clean, tough stain removal — strong all-rounder for medium families. Higher capacity plus premium features at a modest price."
+  },
+  {
+    "id": "home-360-laundry-5",
+    "title": "Bosch 8 kg, 5 Star, AI Active Water+, Anti-Tangle, Anti-Wrinkle Fully-Automatic Front Loading Washing Machine (WAJ2826BIN, Steam with Anti Bacteria, In-Built Heater, Shiny Silver)",
+    "product_link": "https://amzn.to/45u3mmu",
+    "image_url": "https://m.media-amazon.com/images/I/61s1ityYQCL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "8 kg front load. Great wash quality with 15+ programs, silent motor, energy efficiency. Front-load tech delivers deeper wash, better fabric care, faster drying."
+  },
+  {
+    "id": "home-360-laundry-6",
+    "title": "LG 7 Kg 5 Star Smart Inverter Technology Fully Automatic Top Load Washing Machine (T70VBMB1Z, Auto Prewash, Turbodrum, Stainless Steel drum, LED Display, Smart Diagnosis Middle Black)",
+    "product_link": "https://amzn.to/4sQhDnw",
+    "image_url": "https://m.media-amazon.com/images/I/71PvuyD9DDL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "7.5 kg top load. Smart inverter tech, TurboDrum for powerful stain removal, Auto Pre Wash. Quiet, efficient, and easy to use with advanced wash options."
+  },
+  {
+    "id": "home-360-laundry-7",
+    "title": "LG Smart Choice, 9 Kg, 5 Star, AI Direct Drive Technology, Steam, 6 Motion DD & Wi-Fi Fully-Automatic Front Load Washing Machine (FHP1209Z5M, Intelligent & Convenient Fabric Care, Middle Black)",
+    "product_link": "https://amzn.to/4aeSprG",
+    "image_url": "https://m.media-amazon.com/images/I/71Q9Ur32OOL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "10 kg fully-automatic top load. Large capacity for bigger families or heavy laundry. Superior water and energy efficiency, multiple wash programs for varied fabric types."
+  },
+  {
+    "id": "home-360-laundry-8",
+    "title": "Haier 7 kg 5 Star Fully-Automatic Top Load Washing Machine",
+    "product_link": "https://amzn.to/3ZsYfj0",
+    "image_url": "https://m.media-amazon.com/images/I/61W6EabWYGL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "7 kg top load. Good value for basic washing needs with simple, user-friendly interface. Satisfactory performance for 2–3 member families looking for a no-frills machine."
+  },
+  {
+    "id": "home-360-laundry-9",
+    "title": "Samsung 7 kg, 5 Star, Eco Bubble Technology, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA70BG4441YYTL, Lavender Gray)",
+    "product_link": "https://amzn.to/4reWO3D",
+    "image_url": "https://m.media-amazon.com/images/I/61W6EabWYGL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "7 kg top load. Diamond Drum (soft on clothes), rust-proof body. Durable design with Samsung reliability, quick wash modes and tub cleaning."
+  },
+  {
+    "id": "home-360-laundry-10",
+    "title": "IFB 7 Kg 5 Star with Deep Clean® Technology, AI Powered, Fully Automatic Top Load Washing Machine (TL701MG1, ActivMix, Aqua Energie, Med Grey)",
+    "product_link": "https://amzn.to/4qyVwR0",
+    "image_url": "https://m.media-amazon.com/images/I/61QkJg-vgAL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "laundry-intelligence",
+    "description": "7 kg. IFB wash technology (9-Swirl Wash, Steam Refresh) and build quality. Great for deep cleaning, allergen reduction and quiet operation; ideal for front load tech."
+  },
+  {
+    "id": "home-360-kitchen-1",
+    "title": "Cookwell Bullet Mixer Grinder (5 Jars, 3 Blades, Silver) - Copper, 600 Watts - 2 Year Warranty",
+    "product_link": "https://amzn.to/4jX2Jbf",
+    "image_url": "https://m.media-amazon.com/images/I/81yobRRV8nL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Budget favorite with multiple jars for grinding, blending and chutney. Strong value for Indian kitchen use."
+  },
+  {
+    "id": "home-360-kitchen-2",
+    "title": "Butterfly Smart 750 Watts Mixer Grinder with 4 Jars | 3 Stainless Steel Jars & 1 Juicer | ABS Body | Heavy Duty Motor | 2 Years Manufacturer's Warranty | Grey",
+    "product_link": "https://amzn.to/3NBBdny",
+    "image_url": "https://m.media-amazon.com/images/I/61QcAehpnzL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Strong 750W motor for Indian spices and masalas. Reliable everyday mixer grinder."
+  },
+  {
+    "id": "home-360-kitchen-3",
+    "title": "Atomberg Zenova Mixer Grinder | Unique Coarse Mode for Silbatta-like Texture | Intelligent BLDC Motor | Safety Features | 4 Jars including Chopper | Hands-Free Operation (Black)",
+    "product_link": "https://amzn.to/3LyuJ8n",
+    "image_url": "https://m.media-amazon.com/images/I/719T6cBvUuL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "BLDC motor with quieter operation and energy efficiency. Smooth grinding with less noise."
+  },
+  {
+    "id": "home-360-kitchen-4",
+    "title": "Philips HL7756/00 Mixer Grinder with 10-year warranty on product registration , 750W, 3 Jars (Black)",
+    "product_link": "https://amzn.to/3ZCDdyl",
+    "image_url": "https://m.media-amazon.com/images/I/71mL2bdyRdL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Trusted brand with 3 stainless steel jars. Durable and easy to clean for daily use."
+  },
+  {
+    "id": "home-360-kitchen-5",
+    "title": "BOSCH TrueMixx Pro 1000 W Mixer Grinder, 1000W 3 Jar Black MGM8836BIN",
+    "product_link": "https://amzn.to/3LyXYId",
+    "image_url": "https://m.media-amazon.com/images/I/51BBjayQjUL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Powerful 1000W motor for heavy grinding. Handles tough ingredients and dry spices well."
+  },
+  {
+    "id": "home-360-kitchen-6",
+    "title": "Instant Vortex Plus 6L Air Fryer, 6-in-1 with 360° EvenCrisp Technology, Touch Control Panel, Uses 95% Less Oil, Air Fry, Roast, Grill, Bake, Reheat & Dehydrate, 1500W, PFOA-Free & BPA-Free, 230V",
+    "product_link": "https://amzn.to/49UbYUH",
+    "image_url": "https://m.media-amazon.com/images/I/71orgjq5TYL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Highly rated multi-function fryer: air fry, roast, bake. 6L capacity for families."
+  },
+  {
+    "id": "home-360-kitchen-7",
+    "title": "PHILIPS Air Fryer NA120/00, uses up to 90% less fat, 1500W, 4.2 Liter, with Rapid Air Technology (Black), Large",
+    "product_link": "https://www.amazon.in/PHILIPS-Fryer-NA120-00-Technology/dp/B0D14BB5XY",
+    "image_url": "https://m.media-amazon.com/images/I/41Z5ldkAeYL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Best-selling at lower price with Rapid Air tech. Healthier frying with less oil."
+  },
+  {
+    "id": "home-360-kitchen-8",
+    "title": "Pigeon Healthifry Digital Air Fryer, 360° High Speed Air Circulation Technology 1200 W with Non-Stick 4.2 L Basket",
+    "product_link": "https://amzn.to/3M5tVb5",
+    "image_url": "https://m.media-amazon.com/images/I/71NZiryyhbL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Good budget choice with digital controls. Easy to use for snacks and light meals."
+  },
+  {
+    "id": "home-360-kitchen-9",
+    "title": "Kent 8L Digital Air Fryer",
+    "product_link": "https://www.amazon.in/KENT-Digital-Air-Fryer-8L/dp/B0DGKY4WLP",
+    "image_url": "https://m.media-amazon.com/images/I/816RQh3J2qL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Large 8L capacity air fryer for families. Digital presets for fuss-free cooking."
+  },
+  {
+    "id": "home-360-kitchen-10",
+    "title": "Amazon Basics 1600W Induction Cooktop | 7 Pre-Set Cooking Menus | LED Display | Smart Push Buttons I Energy Efficient, Auto Cut-off, 20A IGBT & 4KV Surge Protection I Black",
+    "product_link": "https://amzn.to/45x7ouq",
+    "image_url": "https://m.media-amazon.com/images/I/717xDsbB1fL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Solid budget induction option. Fast heating and energy-efficient for everyday cooking."
+  },
+  {
+    "id": "home-360-kitchen-12",
+    "title": "Pigeon Rapido 2100W Induction Cooktop",
+    "product_link": "https://amzn.to/4re9IPs",
+    "image_url": "https://m.media-amazon.com/images/I/71hs7OkrR4L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "More power for quicker cooking. Reliable brand with good heating performance."
+  },
+  {
+    "id": "home-360-kitchen-13",
+    "title": "Prestige IRIS LPG Gas Stove, 3 Burner, Black, Glass, Manual & Prestige Hard Anodised Aluminium Plus Cookware Induction Base Roti Tawa, 22.5cm, Black",
+    "product_link": "https://amzn.to/4qQXxrK",
+    "image_url": "https://m.media-amazon.com/images/I/610rlUtAj-L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Trusted brand with sturdy build. Three brass burners for balanced cooking."
+  },
+  {
+    "id": "home-360-kitchen-14",
+    "title": "Crompton FlameStar 3 Burner Glass Top LPG Gas Stove | 1 Jumbo & 2 Medium Brass Burner | Max Space | Easy Cleaning | Toughened Glass | Tri Pin Burners | 2 Year Manufacturer's Warranty",
+    "product_link": "https://amzn.to/49WxwAa",
+    "image_url": "https://m.media-amazon.com/images/I/61C9Tm68E9L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Good mid-range LPG stove with brass burners. Durable and easy to clean."
+  },
+  {
+    "id": "home-360-kitchen-15",
+    "title": "Faber 60 Cm 1100 M³/Hr Auto-Clean Curved Glass Kitchen Chimney [HOOD ALPHA In HC PB FL BK 60], Filterless Technology, Push Button, Black]",
+    "product_link": "https://amzn.to/4bfpp49",
+    "image_url": "https://m.media-amazon.com/images/I/61gT0ZrYXGL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Popular chimney with auto-clean and good suction. Keeps kitchen smoke and grease under control."
+  },
+  {
+    "id": "home-360-kitchen-16",
+    "title": "Glen 90 cm 1200 m³/hr Filterless Thermal Autoclean Kitchen Chimney, Curved Glass |(Hood Senza 90,Touch & Gesture Control,Black)",
+    "product_link": "https://amzn.to/4t0BWi2",
+    "image_url": "https://m.media-amazon.com/images/I/41U7TGaek+L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Filterless design and touch sensor. Low maintenance with strong suction."
+  },
+  {
+    "id": "home-360-kitchen-17",
+    "title": "Elica 60 cm 1350 m3/hr Filterless Autoclean Kitchen Chimney with 15 Years Motor & 5 Years Comprehensive Warranty (WDFL 606 HAC LTW MS NERO, Touch + Motion Sensor Control, Black)",
+    "product_link": "https://amzn.to/4beKZpm",
+    "image_url": "https://m.media-amazon.com/images/I/61MMo3L63rL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Strong seller with high suction power. Filterless auto-clean for hassle-free use."
+  },
+  {
+    "id": "home-360-kitchen-18",
+    "title": "Bajaj 1603 16 Liters Oven Toast Grill (OTG) | 1200 Watt | Cool Touch Handles | Grill, Bake & Roast | Heat Resistant | Tempered Glass 【White】",
+    "product_link": "https://amzn.to/4a0gdhO",
+    "image_url": "https://m.media-amazon.com/images/I/61Dei93dX2L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Versatile 45L OTG with rotisserie and convection. Bake, grill and toast in one appliance."
+  },
+  {
+    "id": "home-360-kitchen-19",
+    "title": "Glen Multi-Function OTG for Kitchen 35 Litre, 2100W, Oven Toaster Griller with 6 Heating Modes, Rotisserie, Convection Fan, Temp. Control, Bake, Grill & Toast,Oven for Baking - Black (SA5035BLRC)",
+    "product_link": "https://amzn.to/49QBEle",
+    "image_url": "https://m.media-amazon.com/images/I/61fOQ2d41zL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Affordable basic OTG with 6 heating modes, rotisserie and convection. Good for baking and grilling."
+  },
+  {
+    "id": "home-360-kitchen-20",
+    "title": "AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for Baking, Toasting & Grilling, Adjustable 100°C-250°C, 30-Min Timer with Ready Bell, Auto Shut-Off, Tempered Glass Door, Bake Pan, Tong & Rack",
+    "product_link": "https://amzn.to/4qFquH8",
+    "image_url": "https://m.media-amazon.com/images/I/71HkFyEFR-L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Compact 9L OTG for small kitchens. Bake, grill and toast in limited space."
+  },
+  {
+    "id": "home-360-kitchen-21",
+    "title": "Panasonic 25L Solo Microwave Oven (NN-ST310QBFG, Black, 85 Auto Cook Menus)",
+    "product_link": "https://amzn.to/46favHB",
+    "image_url": "https://m.media-amazon.com/images/I/712wBdtn5AL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Reliable everyday microwave. Reheat and cook with consistent performance."
+  },
+  {
+    "id": "home-360-kitchen-22",
+    "title": "Samsung 28L, Convection Microwave Oven with Curd Making(MC28A5013AK/TL, Black, 10 Yr warranty)",
+    "product_link": "https://amzn.to/3YYTdus",
+    "image_url": "https://m.media-amazon.com/images/I/71XXjl2cZhL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Microwave plus convection for baking and grilling. Versatile reheating and cooking."
+  },
+  {
+    "id": "home-360-kitchen-23",
+    "title": "LG 32 L Convection Microwave Oven (MC3286BLT, Black, Auto Cook Menu, Diet Fry and with Stainless Steel Cavity)",
+    "product_link": "https://amzn.to/3ZCMkix",
+    "image_url": "https://m.media-amazon.com/images/I/71SZQyN44qL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "32L convection microwave with auto cook menu, Diet Fry and stainless steel cavity. Large capacity for families."
+  },
+  {
+    "id": "home-360-kitchen-24",
+    "title": "Instant Pot Duo 6QT(5.7L) 7-in-1 Electric Pressure Cooker, Multi Pot, SS304 Stainless Steel Inner Pot, Slow Cook, Rice Cooker, Steamer, Sauté, Yogurt Maker & Keep Warm, 13 customizable programs, 230V",
+    "product_link": "https://amzn.to/3NG1K2W",
+    "image_url": "https://m.media-amazon.com/images/I/71Z401LjFFL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Multifunction electric cooker: pressure cook, steam, sauté, slow cook and more. One pot for many dishes."
+  },
+  {
+    "id": "home-360-kitchen-25",
+    "title": "Havells Rigo 500 Watts Juicer, White - Dark Blue (Ghfjmbvb050), 500 Watt",
+    "product_link": "https://amzn.to/4qLAoqQ",
+    "image_url": "https://m.media-amazon.com/images/I/51jEjO2L12L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Great for juices and grinding. Versatile for daily beverages and cooking prep."
+  },
+  {
+    "id": "home-360-kitchen-26",
+    "title": "V-Guard VKS15 1.5 Litre Electric Kettle for Hot Water | 1350 W | Stainless Steel Hot Water Kettle | Power Indicator | Auto Cut-off | Boil Dry Protection | 1 Year Coverage by V-Guard",
+    "product_link": "https://amzn.to/4qMK1FU",
+    "image_url": "https://m.media-amazon.com/images/I/41OaRRGTZ3L.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Fast boiling 2L kettle. Smart features for quick tea and coffee."
+  },
+  {
+    "id": "home-360-kitchen-27",
+    "title": "Borosil 800W Prime Grill Sandwich Maker | Can Make 2 Large Sandwich | Made in India, BIS Approved | Nonstick Coated Plates, Even Grilling | Cool Touch Handle | Indicator Light | 2 Years Warranty",
+    "product_link": "https://amzn.to/4k5luJG",
+    "image_url": "https://m.media-amazon.com/images/I/61g6-FaHucL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Quick snack maker for sandwiches and grilling. Easy to use and clean."
+  },
+  {
+    "id": "home-360-kitchen-28",
+    "title": "Butterfly Jazz Hand Mixer",
+    "product_link": "https://amzn.to/4pUigd1",
+    "image_url": "https://m.media-amazon.com/images/I/31DZHFIhoYL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "modern-kitchen-powerhouse",
+    "description": "Easy hand mixer for batter and whipping. Lightweight and convenient for baking."
+  },
+  {
+    "id": "home-360-water-1",
+    "title": "Pureit Revito Prime RO+MF+Mineral+UV in-Tank | 7 stage | 8L Capacity | Upto 70% Water Saving | Suitable for Borewell, Tanker & Municipal Water | DURAViva | Black",
+    "product_link": "https://amzn.to/4jWDNjU",
+    "image_url": "https://m.media-amazon.com/images/I/41XGt2jMppL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "pure-water-systems",
+    "description": "RO + UV + mineral retention, handles high TDS water, up to ~70% water saving. Excellent all-round performance; great choice for family kitchens. ~4.6★ from 1,500+ reviews."
+  },
+  {
+    "id": "home-360-water-2",
+    "title": "Aquaguard Sure Delight RO+UV+UF 2X Water Purifier | 2 Year Filter Life | With Mega Sediment Filter | 2 Free Cleaning Service | 7-Stage Purification | India’s No.1 Purifier* | Large 6L Storage",
+    "product_link": "https://amzn.to/4bk6eWP",
+    "image_url": "https://m.media-amazon.com/images/I/51J9yKE61vL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "pure-water-systems",
+    "description": "Multi-stage filtration removes impurities and improves taste. Trusted brand; good mid-range choice for hard water areas. ~4.2★ with positive user feedback."
+  },
+  {
+    "id": "home-360-water-3",
+    "title": "AQUA D PURE 4 in 1 Copper RO Water Purifier with 10 Stage Purification Filtration, UV, UF, TDS Adjuster and 12 Liter Large Storage Tank, Suitable for all type of water supply",
+    "product_link": "https://amzn.to/4pYU49C",
+    "image_url": "https://m.media-amazon.com/images/I/71bmk7NQKkL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "pure-water-systems",
+    "description": "RO, UV, UF, TDS control and copper enrichment in one unit; 12 L storage. Strong value for bigger families; reliable performance and good output water quality."
+  },
+  {
+    "id": "home-360-water-4",
+    "title": "Pureit Revito RO+MF+Mineral+UV in-Tank | 7 stage | 7L Capacity | Upto 70% Water Saving | Suitable for Borewell, Tanker & Municipal Water | DURAViva | Magenta",
+    "product_link": "https://amzn.to/4rbVkqP",
+    "image_url": "https://m.media-amazon.com/images/I/41ierQkkgfL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "pure-water-systems",
+    "description": "Up to 70% water saving, good for municipal and borewell water, retains essential minerals. Very popular on Amazon and often in best-seller lists."
+  },
+  {
+    "id": "home-360-water-5",
+    "title": "Atomberg Intellon Adaptive Water Purifier RO+UF+UV+Alkaliser 8L",
+    "product_link": "https://amzn.to/46f2e6u",
+    "image_url": "https://m.media-amazon.com/images/I/61eFlD6N5PL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "pure-water-systems",
+    "description": "7-stage with taste enhancer and anti-odor filters; TDS-based filtration, smart IoT, 4 modes. Zero cost for 2 years, 2-year warranty. Highly recommended; often in Amazon best sellers."
+  },
+  {
+    "id": "home-360-water-6",
+    "title": "Aquaguard Blaze Insta Hot & Ambient 8-Stage RO, Dual Stainless Steel Tank Water Purifier | RO+UV+Active Copper Tech | Upto 40% Water Savings | Suitable for all Water Sources",
+    "product_link": "https://amzn.to/4qG88Ws",
+    "image_url": "https://m.media-amazon.com/images/I/514W3h5UFhL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "pure-water-systems",
+    "description": "RO+UV+Active Copper tech, up to 40% water savings. Suitable for all water sources. Very well reviewed mid-range purifier with LED indicators; handles variable water quality."
+  },
+  {
+    "id": "home-360-autoclean-1",
+    "title": "AGARO Alpha Robot Vacuum Cleaner (Vacuum + Mop)",
+    "product_link": "https://amzn.to/4t0kWbW",
+    "image_url": "https://m.media-amazon.com/images/I/71JQdIIfExS._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Powerful suction, LiDAR navigation, app control — excellent all-around robot floor cleaner for dust and everyday debris."
+  },
+  {
+    "id": "home-360-autoclean-2",
+    "title": "ECOVACS DEEBOT N30 White 2 in 1 Robot Vacuum Cleaner & Mop, 2025 New Launch, 10000 Pa Suction, 5200mAh Battery, Covers 3500+ Sq ft in Single Charge, Zero Tangle 2.0 Technology, Advanced TrueMapping",
+    "product_link": "https://amzn.to/4bNhWte",
+    "image_url": "https://m.media-amazon.com/images/I/51LS9nq4PoL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Good value robot vacuum with large dustbin and basic app control — popular for everyday floor cleaning with Single Charge, Zero Tangle 2.0 Technology, Advanced TrueMapping."
+  },
+  {
+    "id": "home-360-autoclean-3",
+    "title": "DREAME L10 Prime Robot Vacuum and Mop",
+    "product_link": "https://amzn.to/4ajbiZB",
+    "image_url": "https://m.media-amazon.com/images/I/51CLiKDNAqL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "High-end robot cleaner with LiDAR mapping, strong 4000 Pa suction and auto mop cleaning."
+  },
+  {
+    "id": "home-360-autoclean-4",
+    "title": "ILIFE T20s Pro Robot Vacuum Cleaner with Advanced LiDAR Navigation, Self-Emptying for Up to 10 Weeks, 6500Pa Suction, Simultaneous Vac and Mop, Multi Floor Maps, Customized Cleaning, App, Alexa & GH",
+    "product_link": "https://amzn.to/4rcDPXg",
+    "image_url": "https://m.media-amazon.com/images/I/51m-UHFOxhL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "A standout self-empty robot vacuum with 4000 Pa suction and app + voice control (Alexa/Google)."
+  },
+  {
+    "id": "home-360-autoclean-5",
+    "title": "ILIFE T20s Ultra Robot Vacuum Cleaner with Advanced LiDAR Navigation, Self-Emptying for Up to 10 Weeks, 10,000Pa Suction, Dry & Wet Combo, Customised Cleaning, App, Voice and Remote Control",
+    "product_link": "https://amzn.to/3NO5fUZ",
+    "image_url": "https://m.media-amazon.com/images/I/61bGwyqoxbL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Strong suction, app scheduling and Alexa/Google Home compatibility — great for pet hair and daily cleaning."
+  },
+  {
+    "id": "home-360-autoclean-6",
+    "title": "Eureka Forbes SmartClean, 5000Pa HyperSuction Robotic Vacuum Cleaner with Auto Bin (65 Days Hands-Free Cleaning) | LiDAR 3.0 & Home Mapping | Wet Mopping | 5-Hour Run Time | Smart App Control",
+    "product_link": "https://amzn.to/3O3CFit",
+    "image_url": "https://m.media-amazon.com/images/I/51m-UHFOxhL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "LiDAR navigation and auto bin collection — a solid choice from an Indian household brand."
+  },
+  {
+    "id": "home-360-autoclean-7",
+    "title": "realme Techlife Robot 2 In 1 Vaccum Cleaner With Mopping, 3000 Pa Powerful Suction, 5200 Mah Battery, 300+ Minutes With Advanced Lidar Navigation Technology , Compatible With: Wifi/APP/Alexa, Black",
+    "product_link": "https://amzn.to/4qMLfku",
+    "image_url": "https://m.media-amazon.com/images/I/71JQdIIfExS._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Strong suction robot with app control and scheduling, easy to use for daily floor care."
+  },
+  {
+    "id": "home-360-autoclean-8",
+    "title": "Godrej Smart Lock (Fingerprint / Wi-Fi / PIN Access)",
+    "product_link": "https://amzn.to/460A6E6",
+    "image_url": "/godrej-smart-lock.png",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Highly rated digital door lock with fingerprint, PIN, and app support — premium home entry automation."
+  },
+  {
+    "id": "home-360-autoclean-9",
+    "title": "Mygate Smart Door Lock SE with 6 Unlock Methods, Fingerprint, OTP, PIN, RFID Card, Key & Mobile App Access, Unauthorized Freeze & Pin Decoy, Remote Unlocking via OTP| 3-Year Warranty by Mygate, Black",
+    "product_link": "https://amzn.to/4qzOvPS",
+    "image_url": "https://m.media-amazon.com/images/I/718itff4pXL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Fingerprint, OTP, PIN, RFID Card, Key and Mobile App access. Unauthorized freeze and Pin Decoy. Remote unlocking via OTP. 3-Year Warranty."
+  },
+  {
+    "id": "home-360-autoclean-10",
+    "title": "HomeMate Smart Curtain Opener, Remote Control Electric Automatic Smart Curtain Opener- Wireless | App Control | Compatible with Amazon Alexa, Google Home & Siri | Roman Rod",
+    "product_link": "https://amzn.to/3NEetU0",
+    "image_url": "https://m.media-amazon.com/images/I/61RQjv5ZPoL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Automated curtain motors and robot curtain openers for smart home convenience."
+  },
+  {
+    "id": "home-360-autoclean-11",
+    "title": "Sensibo Air PRO - AC Smart Controller & Air Quality Sensor. Smart Thermostat for Mini Split, Window, Portable AC. Temp & Humidity Sensors. Google, Alexa, Siri & Apple HomeKit Compatible",
+    "product_link": "https://amzn.to/4sXWibJ",
+    "image_url": "/sensibo-air-pro.png",
+    "category": "home-360",
+    "subcategory": "autoclean-systems",
+    "description": "Smart IR remote and AC controller for home entertainment and climate automation."
+  },
+  {
+    "id": "home-360-dishcare-1",
+    "title": "Bosch 13 Place Setting, EcoSilence Drive, Hygiene plus with Intensive Kadhai program, Free Standing Dishwasher, No.1 Brand in Dishwasher (SMS66GW01I, White, Inbuilt heater, Removes 99.99% germs)",
+    "product_link": "https://amzn.to/4pUARFT",
+    "image_url": "https://m.media-amazon.com/images/I/71UJyiwV3DL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Top-rated full-size dishwasher ideal for Indian kitchens with multiple wash programs including intensive kadhai wash and half-load. Great for families of 3-5."
+  },
+  {
+    "id": "home-360-dishcare-2",
+    "title": "LG 14 Place Settings Inverter Direct Drive, Wi-Fi Free Standing Dishwasher (DFB424FP, Silver, Silent Operation, Tough Stain Removal, Adjustable racks & TrueSteam)",
+    "product_link": "https://amzn.to/4qNQkck",
+    "image_url": "/lg-dishwasher-14place.png",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Premium dishwasher with TrueSteam and QuadWash technology — deep cleaning with less water spots and quiet operation, good for larger households."
+  },
+  {
+    "id": "home-360-dishcare-3",
+    "title": "Voltas Beko, A Tata Product, 8‑Place Settings Table top Dishwasher, Suitable for All Types of Utensils (DT8B, Black) with Hygiene Wash",
+    "product_link": "https://amzn.to/4rh723C",
+    "image_url": "https://m.media-amazon.com/images/I/71sNuog93YL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Popular compact dishwasher with 8 place settings — perfect for limited space or an affordable tabletop model for daily dishes."
+  },
+  {
+    "id": "home-360-dishcare-4",
+    "title": "IFB 14 Place Settings with DeepClean® Technology Freestanding Dishwasher (Neptune FX14, White, 70° Hot Water Wash with Hygienic Steam Drying, Perfect for Indian Utensils)",
+    "product_link": "https://amzn.to/49UmIT3",
+    "image_url": "https://m.media-amazon.com/images/I/71PY9hGPiZL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Mid-range full-size dishwasher with multiple wash programs and adjustable upper shelf — good value no-frills choice."
+  },
+  {
+    "id": "home-360-dishcare-5",
+    "title": "Faber 12 Place Dishwasher | 6 Wash Programs | Adjustable & Foldable Racks | Salt & Rinse Aid Indicators | Aqua Stop | Energy Efficient A++ | 2 Yr Warranty & 5 Yr Rust Protection | FFSD6PR12S Neo",
+    "product_link": "https://amzn.to/4a0cCjH",
+    "image_url": "https://m.media-amazon.com/images/I/61vqndpjPFL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Adjustable and foldable racks, salt and rinse indicator, lower water use and good customer feedback. Good mid-range choice for Indian utensils."
+  },
+  {
+    "id": "home-360-dishcare-6",
+    "title": "Godrej Eon Dishwasher | Steam Wash Technology |13 place setting | Perfect for Indian Kitchen| A+++ Energy rating | DWF EON VES 13Z STI GPGR",
+    "product_link": "https://amzn.to/3LUA9uf",
+    "image_url": "https://m.media-amazon.com/images/I/61+cYMi3eUL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "UV/anti-germ cleaning for dishwasher cycles; suitable for families that want extra hygiene with each wash."
+  },
+  {
+    "id": "home-360-dishcare-7",
+    "title": "MIDEA 8 Place Setting Countertop Dishwasher (MDWTT0802D(B) IN, Black, 6 wash programs, Portable, anti-bacterial filter & Intensive 70 degree wash for Ultra Hygiene, 24 Hour Delay Timer)",
+    "product_link": "https://amzn.to/49EQQDd",
+    "image_url": "https://m.media-amazon.com/images/I/71SICv5sHIL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Compact dishwasher with 70°C intensive wash and flexible rack system — suitable for small kitchens and smaller families."
+  },
+  {
+    "id": "home-360-dishcare-8",
+    "title": "IFB 15 Place Freestanding Dishwasher with DeepClean® Technology, 3rd Cutlery Tray, 70°C Hot Water Wash, Turbo Drying, Anti-Bacterial Filter, Perfect for Indian Utensils (Neptune VX15, Dark Silver)",
+    "product_link": "https://amzn.to/4pUNwsB",
+    "image_url": "https://m.media-amazon.com/images/I/71fzBWXcbRL._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "High-capacity unit with DeepClean technology, hot water wash, turbo drying — great for large families and heavier loads."
+  },
+  {
+    "id": "home-360-dishcare-9",
+    "title": "Bosch 14 Place Setting, EcoSilence Drive, Rackmatic 3 stage, Free Standing Dishwasher, World No.1 Brand in Dishwasher (SMS46KI03I, Silver Inox, Inbuilt heater, Removes 99.99% germs)",
+    "product_link": "https://amzn.to/4pZXoRE",
+    "image_url": "https://m.media-amazon.com/images/I/71LAaOZS8+L._SL1500_.jpg",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Slightly larger Bosch option with similar power and wash quality but more room for utensils and houseware."
+  },
+  {
+    "id": "home-360-dishcare-10",
+    "title": "Voltas Beko 14 Place Settings Dishwasher (DF14S3, Silver)",
+    "product_link": "https://amzn.to/4rbXs1N",
+    "image_url": "/voltas-beko-dishwasher-14place.png",
+    "category": "home-360",
+    "subcategory": "dishcare-appliances",
+    "description": "Spacious Voltas Beko model with edge-to-edge cleaning spray and good cleaning/drying — strong mid-range freestanding option."
   }
 ]

@@ -64,7 +64,7 @@ const Index = () => {
   const getFallbackImage = (categoryId: string) => {
     const colors: Record<string, string> = {
       travel: "from-blue-400 to-cyan-500",
-      "life-stages": "from-pink-400 to-orange-500",
+      "home-360": "from-emerald-400 to-teal-500",
       productivity: "from-cyan-400 to-teal-500",
       gifting: "from-rose-400 to-coral-500",
       tech: "from-indigo-400 to-purple-500",
